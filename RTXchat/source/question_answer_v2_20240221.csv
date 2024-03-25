@@ -1,0 +1,658 @@
+CSV File,Question,Answer
+question_answer_v2\About.csv,What is the IEEE Global Communications Conference (GLOBECOM)?,It's one of the IEEE Communications Society's flagship conferences dedicated to innovation in communications.
+question_answer_v2\About.csv,How many researchers typically submit proposals for the IEEE GLOBECOM?,More than 3000 scientific researchers and their management.
+question_answer_v2\About.csv,What is the location and date for IEEE GLOBECOM 2023?,"Kuala Lumpur, Malaysia, from 4 to 8 December 2023."
+question_answer_v2\About.csv,What is the theme of IEEE GLOBECOM 2023?,Intelligent Communications for Shared Prosperity
+question_answer_v2\About.csv,How many symposia are featured at IEEE GLOBECOM 2023?,13 symposia.
+question_answer_v2\About.csv,What does IEEE stand for?,"Institute of Electrical and Electronics Engineers, Inc."
+question_answer_v2\About.csv,How many members does IEEE have?,"Over 400,000 members in 150 countries."
+question_answer_v2\About.csv,"What percentage of the world's electrical, electronics engineering, and computer science literature does IEEE publish?",30 percent.
+question_answer_v2\About.csv,How many active industry standards has IEEE developed?,Nearly 900 active industry standards.
+question_answer_v2\About.csv,How many conferences does IEEE sponsor annually?,More than 850 conferences worldwide.
+question_answer_v2\About.csv,What is the IEEE Communications Society (ComSoc)?,A leading global community focused on advancing all communications and networking technologies.
+question_answer_v2\About.csv,How many members does IEEE ComSoc have?,"About 27,000 members"
+question_answer_v2\About.csv,What are some emerging areas IEEE ComSoc is focusing on?,"5G, SDN, IoT, Fog Computing, Big Data, Green ICT, fiber optics, etc."
+question_answer_v2\Author.csv,What is the focus of the 2023 IEEE Global Communications Conference?,The conference will focus on the latest research and innovation in communication technologies.
+question_answer_v2\Author.csv,What are the main components of the technical program at GLOBECOM 2023?,"The technical program includes symposia, tutorials, and workshops."
+question_answer_v2\Author.csv,How can I contribute to the technical program of GLOBECOM 2023?,"You can contribute by submitting a symposium paper, a workshop paper, a workshop proposal, or a tutorial proposal."
+question_answer_v2\Author.csv,What does the industry program at GLOBECOM 2023 offer to industry professionals?,"It offers opportunities to share and learn about the latest ideas, trends, and product innovations in communications and networking, and to connect with peers and industry leaders."
+question_answer_v2\Author.csv,How can I get involved in the industry program at GLOBECOM 2023?,"You can get involved by seeking information on Executive Forums, submitting Panel or Demo proposals, or getting information on Industry Presentations and Podium Pitches."
+question_answer_v2\Author.csv,What types of papers can be submitted to the symposia at GLOBECOM 2023?,Symposium papers related to communication technologies can be submitted.
+question_answer_v2\Author.csv,Is it possible for me to propose a topic for a workshop at GLOBECOM 2023?,"Yes, you can submit a workshop proposal."
+question_answer_v2\Author.csv,Are there opportunities for learning at GLOBECOM 2023?,"Yes, there are tutorials and workshops for learning opportunities."
+question_answer_v2\Author.csv,What kind of proposals can be submitted for the industry program at GLOBECOM 2023?,Panel and Demo proposals can be submitted.
+question_answer_v2\Author.csv,Is there a platform for industry leaders to present at GLOBECOM 2023?,"Yes, there are Executive Forums and Podium Pitches for industry leaders to present."
+question_answer_v2\Author.csv,Does GLOBECOM 2023 provide information about new products in the communication and networking industries?,"Yes, the industry program includes presentations on new ideas, trends, and product innovations."
+question_answer_v2\Author.csv,What is the date of the 2023 IEEE Global Communications Conference?,"The 2023 IEEE Global Communications Conference is scheduled to take place from December 4th to December 8th, 2023."
+question_answer_v2\Author.csv,Where is GLOBECOM 2023 being held?,"GLOBECOM 2023 will be held in Kuala Lumpur, Malaysia. The conference will take place from December 4 to December 8, 2023. Kuala Lumpur is a vibrant city known for its rich cultural heritage, modern infrastructure, and diverse culinary scene. It serves as an excellent location for the conference, providing a conducive environment for networking, knowledge sharing, and exploring the latest advancements in global communications."
+question_answer_v2\Author.csv,What is the deadline for submitting symposium papers to GLOBECOM 2023?,"The deadline for submitting symposium papers to GLOBECOM 2023 is May 21, 2023, at 23:59 EDT."
+question_answer_v2\Author.csv,Who can submit proposals for panels and demos in the industry program of GLOBECOM 2023?,"Industry professionals, researchers, and practitioners in communication technologies can submit these proposals."
+question_answer_v2\Author.csv,Do participants have the opportunity to network with industry leaders at GLOBECOM 2023?,"Yes, the conference provides opportunities to connect with peers and industry leaders."
+question_answer_v2\Author.csv,Are there any special events for networking at GLOBECOM 2023?,"Special networking events are not detailed, but the conference includes forums and presentations which may offer networking opportunities."
+question_answer_v2\Author_call For Demo Proposal.csv,What is expected in the demonstrations?,To show novel technologies and their application
+question_answer_v2\Author_call For Demo Proposal.csv,Where will the exhibition booths be located?,In the main hall where coffee breaks will be held
+question_answer_v2\Author_call For Demo Proposal.csv,What is the purpose of having someone at the exhibition booths?,To present and address attendees
+question_answer_v2\Author_call For Demo Proposal.csv,Where can the terms for organizing a exhibition booth be found?,On the conference website
+question_answer_v2\Author_call For Demo Proposal.csv,What will happen if the demo proposal is accepted?,The public information in it will be used to advertise on the conference website
+question_answer_v2\Author_call For Demo Proposal.csv,How should demo proposals be submitted?,Via email to m.mansor@ukm.edu.my
+question_answer_v2\Author_call For Demo Proposal.csv,What will be the role of the person present at the demo exhibition booths?,To present and address attendees
+question_answer_v2\Author_call For Demo Proposal.csv,Where can one find more information about organising an demo exhibition booth?,Conference website
+question_answer_v2\Author_call For Demo Proposal.csv,What is the final date to submit demo proposals for the conference?,"October 27th, 2023"
+question_answer_v2\Author_call For Demo Proposal.csv,How can demo proposals be submitted?,Via email
+question_answer_v2\Author_call For Demo Proposal.csv,What email address should demo proposals be sent to?,m.mansor@ukm.edu.my
+question_answer_v2\Author_Call For Industry Panels.csv,What is the goal of a Industry Panel at the conference?,To bring together Speakers from industry and academia to discuss a timely and relevant topic of interest to conference participants.
+question_answer_v2\Author_Call For Industry Panels.csv,Who should the Moderator's information be sent to for a Industry Panel proposal?,Industry Forums & Exhibitions Chairs at gc2023-industry-panels@comsoc.org.
+question_answer_v2\Author_Call For Industry Panels.csv,What is the deadline for submission of Industry Panel proposals?,30 June 2023.
+question_answer_v2\Author_Call For Industry Panels.csv,When will notifications on the acceptance of Industry Panel proposals be sent?,31 July 2023.
+question_answer_v2\Author_Call For Industry Panels.csv,What is the deadline for confirmation of all speakers for the Industry Panel?,18 September 2023.
+question_answer_v2\Author_Call For Industry Panels.csv,What is the deadline for final full information for the Industry Panel?,2 October 2023.
+question_answer_v2\Author_Call For Industry Panels.csv,What is the maximum number of speakers allowed in a Industry Panel?,"No more than 4 Speakers, with a maximum of 5, plus the Moderator."
+question_answer_v2\Author_Call For Industry Panels.csv,How many Moderators should there be in a Industry Panel?,Only 1 Moderator.
+question_answer_v2\Author_Call For Industry Panels.csv,What is required of the Organiser in terms of questions for the Industry Panel?,The Organiser has to establish a few questions to be addressed by Speakers.
+question_answer_v2\Author_Call For Industry Panels.csv,How long should the Moderator's introduction presentation be in Industry Panel?,10 minutes.
+question_answer_v2\Author_Call For Industry Panels.csv,What is the recommended structure for each Speaker's presentation in the Industry Panel?,"10-minute presentation each, consisting of 6 slides (the cover slide plus one per question)."
+question_answer_v2\Author_Call For Industry Panels.csv,What is the expected mode of participation for Moderator and Speakers at the Industry Panel ?,In-person attendance is expected for both Moderator and Speakers.
+question_answer_v2\Author_Call For Industry Panels.csv,How many Speakers are allowed to participate remotely in Industry Panel?,A maximum of 1 Speaker (not the Moderator) is allowed to participate remotely.
+question_answer_v2\Author_Call For Industry Panels.csv,What are the guidelines for presentations by Moderators and Speakers?,Presentations should be uploaded to a local computer prior to the session and given live.
+question_answer_v2\Author_Call For Industry Panels.csv,When will Industry Panels be held during the conference?,"During the conference programme, in parallel to other technical sessions, including industry ones."
+question_answer_v2\Author_Call For Industry Panels.csv,What is the duration of a Industry Panel?,1 hour and 30 minutes.
+question_answer_v2\Author_Call For Industry Panels.csv,What information about the Industry Panel will be made public?,"Moderator's Name, Institution, CV, Panel Title, Motivation and Context, Questions, Speakers List, Speakers' CV, and Speakers' Photo."
+question_answer_v2\Author_Call For Industry Panels.csv,What criteria are used for evaluating and ranking Industry Panel proposals?,"Relevance, Timeliness, Technical Content, Novelty, and Overall Recommendation."
+question_answer_v2\Author_Call For Industry Panels.csv,Who will conduct the evaluation of Industry Panel proposals?,Panels Co-Chairs.
+question_answer_v2\Author_Call For Industry Panels.csv,What registration benefits are available for the Industry Panel Moderator and Speakers for one-day attendance?,Complimentary One Day Registration.
+question_answer_v2\Author_Call For Industry Panels.csv,What registration benefits are available if the Industry Panel Moderator and Speakers attend beyond the day of the Industry Panel?,A discount on the Full Registration.
+question_answer_v2\Author_Call For Symposium Papers.csv,What is the theme of the 2023 IEEE Global Communications Conference?,Intelligent Communications for Shared Prosperity
+question_answer_v2\Author_Call For Symposium Papers.csv,Where is the 2023 IEEE GLOBECOM being held?,"Kuala Lumpur, Malaysia"
+question_answer_v2\Author_Call For Symposium Papers.csv,When will the 2023 IEEE GLOBECOM take place?,"December 4th to 8th, 2023"
+question_answer_v2\Author_Call For Symposium Papers.csv,How many symposia are included in the 2023 IEEE GLOBECOM technical program?,13
+question_answer_v2\Author_Call For Symposium Papers.csv,What types of events will the industry program at IEEE GLOBECOM 2023 feature?,"Keynotes, panels, business and industry panels, and a technological exhibit"
+question_answer_v2\Author_Call For Symposium Papers.csv,What is the requirement for paper submissions to the 2023 IEEE GLOBECOM?,Only original papers that have not been published or submitted for publication elsewhere
+question_answer_v2\Author_Call For Symposium Papers.csv,Which platform should papers for technical symposia be submitted through?,EDAS
+question_answer_v2\Author_Call For Symposium Papers.csv,What is the final deadline for Symposium paper submissions to the 2023 IEEE GLOBECOM?,21 May 2023 (23:59 EDT)
+question_answer_v2\Author_Call For Symposium Papers.csv,When will authors be notified of their Symposium paper acceptance?,1-Aug-23
+question_answer_v2\Author_Call For Symposium Papers.csv,What is the deadline for accepted authors to register and submit camera-ready papers?,1-Sep-23
+question_answer_v2\Author_Call For Symposium Papers.csv,Who are the organizers of the 'Mobile and Wireless Networks' symposium?,"Abdallah Shami (The University of Western Ontario, Canada), Abdel-Hamid Taha (Alfaisal University, Saudi Arabia), Miao Pan (University of Houston, USA), Zehui Xiong (Singapore Univ. of Tech. & Design, Singapore)"
+question_answer_v2\Author_Call For Symposium Papers.csv,Who are the key figures in the 'Optical Networks and Systems' symposium?,"Jerzy Domzal (AGH University of Science and Technology, Poland), Nicola Andriolli (CNR, Italy)"
+question_answer_v2\Author_Call For Symposium Papers.csv,What area does the 'Signal Processing for Communications' symposium focus on?,Signal Processing for Communications
+question_answer_v2\Author_Call For Symposium Papers.csv,Who is leading the 'Wireless Communications' symposium?,"Valeria Loscri (INRIA Lille, France), Chris Anderson (US Naval Academy, USA), Giovanni Geraci (Univ. Pompeu Fabra (UPF), Barcelona), Moayad Aloqaily (xAnanlytics Inc., Canada), Angela Yingjun Zhang (CUHK, Hong Kong)"
+question_answer_v2\Author_Call For Symposium Papers.csv,"Where is the Harbin Institute of Technology, the affiliation of Shuai Han, located?",China
+question_answer_v2\Author_Call For Symposium Papers.csv,What is the main research focus of the 'Green Communication Systems and Networks' symposium?,Sustainable and energy-efficient communication technologies
+question_answer_v2\Author_Call For Symposium Papers.csv,Which university is associated with Krishna Moorthy Sivalingam in the 'IoT and Sensor Networks' symposium?,"Indian Institute of Technology Madras, India"
+question_answer_v2\Author_Call For Symposium Papers.csv,What is the primary area of study in the 'Mobile and Wireless Networks' symposium?,Technological advancements and challenges in mobile and wireless communication networks
+question_answer_v2\Author_Call For Symposium Papers.csv,"Which country is home to the University of Electro-Communications, associated with Zhi Liu?",Japan
+question_answer_v2\Author_Call For Symposium Papers.csv,What are the research interests of Melda Yuksel in the 'Communication Theory' symposium?,Theoretical foundations and applications of communication theory
+question_answer_v2\Author_Call For Symposium Papers.csv,Who represents Durham University in the 'Signal Processing for Communications' symposium?,Fang (Fiona) Fang
+question_answer_v2\Author_Call For Symposium Papers.csv,What is the affiliation of Giovanni Geraci in the 'Wireless Communications' symposium?,"Universitat Pompeu Fabra (UPF), Barcelona"
+question_answer_v2\Author_Call For Symposium Papers.csv,Which university is associated with Angela Yingjun Zhang in the 'Wireless Communications' symposium?,"The Chinese University of Hong Kong, Hong Kong"
+question_answer_v2\Author_Call For Symposium Papers.csv,Where is the symposium where issues of security in communication and information systems are discussed identified?,Communication and Information System Security
+question_answer_v2\Author_Call For Symposium Papers.csv,"Which symposium addresses quality of service, reliability, and modelling in communications?","Communications QoS, Reliability and Modelling"
+question_answer_v2\Author_Call For Symposium Papers.csv,Which symposium is dedicated to exploring advancements in communications software and multimedia?,Communications Software and Multimedia
+question_answer_v2\Author_Call For Symposium Papers.csv,What is the symposium that deals with sustainability in communication systems and networks?,Green Communication Systems and Networks
+question_answer_v2\Author_Call For Symposium Papers.csv,Which symposium is centered around Internet of Things (IoT) and sensor network technologies?,IoT and Sensor Networks
+question_answer_v2\Author_Call For Symposium Papers.csv,Which symposium is focusing on mobile and wireless network innovations?,Mobile and Wireless Networks
+question_answer_v2\Author_Call For Symposium Papers.csv,Which symposium delves into the future of networking and internet technologies?,Next-Generation Networking and Internet
+question_answer_v2\Author_Call For Symposium Papers.csv,Which symposium specializes in optical network and system technologies?,Optical Networks and Systems
+question_answer_v2\Author_Call For Symposium Papers.csv,What is the main research area of the 'Signal Processing for Communications' symposium?,Signal Processing for Communications
+question_answer_v2\Author_Call For Symposium Papers.csv,What is SAC in the context of the IEEE GLOBECOM 2023 Conference?,SAC refers to Selected Areas in Communications.
+question_answer_v2\Author_Call For Symposium Papers.csv,Who is responsible for the SAC - Aerial Communications track at the conference?,"Kuljeet Kaur from Universit? du Qu?bec, Canada"
+question_answer_v2\Author_Call For Symposium Papers.csv,"Where is Mona Jaber, the chair of the SAC - Backhaul and Fronthaul track, affiliated?","Queen Mary University of London, UK."
+question_answer_v2\Author_Call For Symposium Papers.csv,What is the focus of Neeraj Kumar's SAC track at the conference?,Big Data.
+question_answer_v2\Author_Call For Symposium Papers.csv,"Who are the co-chairs for the SAC - Cloud/Edge Computing, Networking, and Data Storage?","Ilhem Fajjari from Orange Innovation, France, and Paolo Amato from Micron, Italy."
+question_answer_v2\Author_Call For Symposium Papers.csv,"Which university is Andrea Sciarrone, the chair of the SAC - E-Health track, associated with?","University of Genoa, Italy."
+question_answer_v2\Author_Call For Symposium Papers.csv,Who is heading the SAC - Integrated Sensing and Communication track?,"Fan Liu from Southern University of Science and Technology (SUSTech), PRC."
+question_answer_v2\Author_Call For Symposium Papers.csv,"Which institutions are Yansha Deng and Jihong Park, the chairs of the SAC - Machine Learning for Communications track, affiliated with?","King's College London, UK and Deakin University, Australia, respectively."
+question_answer_v2\Author_Call For Symposium Papers.csv,"Who is the chair of the SAC - Molecular, Biological and Multi-Scale Communications track?","Masoumeh Nasiri-Kenari from Sharif University of Technology, Iran."
+question_answer_v2\Author_Call For Symposium Papers.csv,Who are the chairs for the SAC - Quantum Communications and Computing track?,"Gui-Lu Long from Tsinghua University, PRC, and Michael Ng from University of Southampton, UK."
+question_answer_v2\Author_Call For Symposium Papers.csv,"Which institution is Alessio Zappone, the chair of SAC - Reconfigurable Intelligent Surfaces, affiliated with?","University of Cassino and Southern Lazio, Italy."
+question_answer_v2\Author_Call For Symposium Papers.csv,"Where is Peng Li, the chair of SAC - Satellite and Space Communications, from?","University of Aizu, Japan."
+question_answer_v2\Author_Call For Symposium Papers.csv,Who is the chair of the SAC - Smart Grid Communications track?,"Biplab Sikdar from NUS, Singapore."
+question_answer_v2\Author_Call For Symposium Papers.csv,"Which university is Burak Kantarci, the chair of SAC - Social Networks, affiliated with?","University of Ottawa, Canada."
+question_answer_v2\Author_Call For Symposium Papers.csv,Who is responsible for the SAC - Terahertz Communications track?,"Chong Han from Shanghai Jiao Tong University, PRC."
+question_answer_v2\Author_Call For Symposium Papers.csv,Where will the accepted and presented technical Symposium papers of IEEE GLOBECOM 2023 be published?,In the IEEE GLOBECOM 2023 Conference Proceedings and submitted to IEEE Xplore's
+question_answer_v2\Author_Call For Symposium Papers.csv,What is the IEEE's policy regarding Symposium papers not presented at the conference?,"The IEEE reserves the right to exclude a paper from distribution after the conference, including its removal from IEEE Xplore, if the paper is not presented at the conference."
+question_answer_v2\Author_Call For Symposium Papers.csv,What are the criteria for reviewing papers for IEEE GLOBECOM 2023?,Papers are reviewed on the basis that they do not contain plagiarized material and have not been submitted to any other conference at the same time (double submission).
+question_answer_v2\Author_Call For Symposium Papers.csv,What action will IEEE Communications Society take against authors engaging in plagiarism or double submission?,The IEEE Communications Society will take action against any author who engages in either plagiarism or double submission practices.
+question_answer_v2\Author_Call For Symposium Papers.csv,What are the requirements for a paper to be published in the IEEE GLOBECOM 2023 Conference Proceedings and IEEE Xplore?,An author of an accepted paper must register for the conference at the FULL or LIMITED rate and the paper must be presented by an author of that paper at the conference unless the TPC Chair grants permission for a substitute presenter.
+question_answer_v2\Author_Call For Symposium Papers.csv,What is the maximum number of papers that can be covered by a single FULL or LIMITED registration?,One FULL or LIMITED registration is valid for up to 3 papers.
+question_answer_v2\Author_Call For Symposium Papers.csv,What are the author's responsibilities during the initial paper submission process via EDAS?,"Authors must ensure that the author list and paper title on the submitted PDF file exactly match the author list and paper title on the EDAS registration page, which must include all co-authors."
+question_answer_v2\Author_Call For Symposium Papers.csv,What is the page length limit for all initial submissions for review?,The page length limit for all initial submissions for review is six printed pages (10-point font).
+question_answer_v2\Author_Call For Symposium Papers.csv,What is the maximum length for final submissions of accepted papers?,"Final submissions of accepted papers must be a maximum of six printed pages (10-point font) including figures, with the option to include one additional page for a fee."
+question_answer_v2\Author_Call For Symposium Papers.csv,What is the charge for including an additional page (the 7th page) in the final submission?,The charge for the additional page (the 7th page) in the final submission is US$100.
+question_answer_v2\Author_Call For Symposium Papers.csv,How should final papers be submitted to?,All final papers must be submitted to the IEEE Conference eXpress website.
+question_answer_v2\Author_Call For Symposium Papers.csv,What templates can be used for preparing manuscripts?,"Manuscripts can be prepared using the Standard IEEE conference templates for LaTeX formats, or Microsoft Word templates in A4 or US letter sizes."
+question_answer_v2\Author_Call For Tutorial Proposals.csv,What is the current status of the tutorial proposal submission for IEEE GLOBECOM 2023?,Tutorial proposal submission is closed.
+question_answer_v2\Author_Call For Tutorial Proposals.csv,When will acceptance notifications for tutorial proposals be sent?,In early July.
+question_answer_v2\Author_Call For Tutorial Proposals.csv,Who are the Tutorial Program Co-Chairs for IEEE GLOBECOM 2023?,"Octavia A. Dobre from Memorial University, Canada, and Rolland Vida from Budapest University of Technology and Economics, Hungary."
+question_answer_v2\Author_Call For Tutorial Proposals.csv,What is the focus of the tutorials at IEEE GLOBECOM 2023?,Half-day tutorial proposals on new and emerging topics within the scope of communications and networking.
+question_answer_v2\Author_Call For Tutorial Proposals.csv,What are the submission guidelines for tutorial proposals?,"Proposals should be submitted in a PDF file, not exceeding 5 pages, for review via EDAS."
+question_answer_v2\Author_Call For Tutorial Proposals.csv,When will the selected tutorials be held during the conference?,On the first and the last day of the conference.
+question_answer_v2\Author_Call For Tutorial Proposals.csv,What should be included in the tutorial proposals?,"Abstract, objectives and motivation, intended audience, presenter biographies, topic descriptions, tutorial content outline, possibility of virtual presentation, past experience of the speakers, previous tutorial experience, and information about similar tutorials in recent ICC & Globecom."
+question_answer_v2\Author_Call For Tutorial Proposals.csv,What information about the tutorial presenters needs to be included in the proposal?,Name and a short biography of each tutorial presenter.
+question_answer_v2\Author_Call For Tutorial Proposals.csv,How should past experience and previous tutorial experience of the speakers be described in the proposal?,"A description of the past/relevant experience of the speaker(s) on the topic of the tutorial and a description of previous tutorial experience of the speaker(s), including past versions of the tutorial."
+question_answer_v2\Author_Call For Tutorial Proposals.csv,What specific comparison needs to be stated in the proposal regarding similar tutorials offered in recent conferences?,State whether a similar tutorial has been offered in recent ICC & Globecom (last two years) and how the current tutorial differs.
+question_answer_v2\Author_Call For Workshop Papers.csv,What is the aim of the conference workshops at IEEE GLOBECOM 2023?,To emphasize emerging topics that are not specifically covered in the main symposia.
+question_answer_v2\Author_Call For Workshop Papers.csv,What can be included in each conference workshop at IEEE GLOBECOM 2023?,"A mix of regular papers, invited presentations, keynotes, and panels that encourage active discussion."
+question_answer_v2\Author_Call For Workshop Papers.csv,Who are the IEEE GLOBECOM 2023 Workshops Chairs?,"Christos Verikoukis, University of Patras, Greece; Guangyi Liu, China Mobile, China; Yacine Ghamri-Doudane, University of La Rochelle, France."
+question_answer_v2\Author_Call For Workshop Papers.csv,What is the final deadline for workshop paper submission at IEEE GLOBECOM 2023?,12 August 2023 (FINAL EXTENSION).
+question_answer_v2\Author_Call For Workshop Papers.csv,When will workshops paper acceptance notifications be sent for IEEE GLOBECOM 2023 workshops?,15 September 2023.
+question_answer_v2\Author_Call For Workshop Papers.csv,What is the deadline for submitting camera-ready workshops papers for IEEE GLOBECOM 2023 workshops?,1 October 2023.
+question_answer_v2\Author_Call For Workshop Papers.csv,When is the accepted author registration deadline for IEEE GLOBECOM 2023 workshops?,1 October 2023.
+question_answer_v2\Author_Call For Workshop Papers.csv,Where must all workshops papers for IEEE GLOBECOM 2023 workshops be submitted?,To the official GLOBECOM 2023 submission system.
+question_answer_v2\Author_Call For Workshop Papers.csv,What are the names of the workshops featured at IEEE GLOBECOM 2023?,"WS01 to WS28, including titles like '4th Workshop on Emerging Topics in 6G Communications', 'Cellular UAV and Satellite Communications - Third Edition', 'Artificial Intelligence Driven Integrated Satellite-Terrestrial Network', etc."
+question_answer_v2\Author_Call For Workshop Papers.csv,What is the IEEE's policy regarding papers not presented at the conference?,The IEEE reserves the right to exclude a paper from distribution if it is not presented at the conference.
+question_answer_v2\Author_Call For Workshop Papers.csv,What is required for a workshop paper to be published in the IEEE GLOBECOM 2023 Conference Proceedings and IEEE Xplore,"An author must register at the 'Workshop Registration' rate, and the paper must be presented by an author at the conference."
+question_answer_v2\Author_Call For Workshop Papers.csv,What is the maximum number of workshop papers covered by one registration at IEEE GLOBECOM 2023?,One registration is valid for up to 3 papers.
+question_answer_v2\Author_Call For Workshop Papers.csv,What are the authors' responsibilities during the initial workshop paper submission process for IEEE GLOBECOM 2023?,Authors must ensure that the author list and paper title on the submitted PDF file exactly match the author list and paper title on the paper registration page.
+question_answer_v2\Author_Call For Workshop Papers.csv,Does the author list for the workshop final manuscript of IEEE GLOBECOM 2023 have the ability to be changed?,"No, the author list of an accepted paper cannot be changed in the final manuscript."
+question_answer_v2\Author_Call For Workshop Papers.csv,What is the page length limit for initial submissions for review at IEEE GLOBECOM 2023?,Six printed pages (10-point font).
+question_answer_v2\Author_Call For Workshop Papers.csv,What is the maximum workshop paper length for final submissions of accepted papers at IEEE GLOBECOM 2023?,"Six printed pages (10-point font) including figures, with the option to include one additional page."
+question_answer_v2\Author_Call For Workshop Papers.csv,What is the charge for including an additional page in final workshop submissions at IEEE GLOBECOM 2023?,US$100 for each additional page (the 7th page).
+question_answer_v2\Author_Call For Workshop Papers.csv,Where must final workshop papers for IEEE GLOBECOM 2023 be submitted?,To the IEEE Conference eXpress website.
+question_answer_v2\Author_Call For Workshop Papers.csv,What templates can be used for preparing workshop manuscripts for IEEE GLOBECOM 2023?,"Standard IEEE conference templates for LaTeX formats, or Microsoft Word templates in A4 or US letter sizes."
+question_answer_v2\Author_Call For Workshop Proposals.csv,Who are the Workshop Program Co-Chairs for the 2023 IEEE GLOBECOM?,"Yacine Ghamri-Doudane from the University of La Rochelle, France; Guanyi Liu from China Mobile, China; and Christos Verikoukis from ISI/ATH and University of Patras, Greece."
+question_answer_v2\Author_Call For Workshop Proposals.csv,What types of sessions will the conference offer?,"Original paper presentations, tutorials, workshops, industry program with keynotes and panels, business and industry panels, and technological exhibits."
+question_answer_v2\Author_Call For Workshop Proposals.csv,What is the aim of the conference workshops?,"To emphasize emerging topics not specifically covered in the main symposia and include a mix of regular papers, invited presentations, keynotes, and panels."
+question_answer_v2\Author_Call For Workshop Proposals.csv,What should the workshop proposals include?,"Title, technical issues description, organizer information, biographies of organizers, names of potential participants, workshop format, draft Call for Papers, publicity and promotion plan, potential website address, and past workshop information, if applicable."
+question_answer_v2\Author_Call For Workshop Proposals.csv,How should workshop proposals be submitted?,As a single PDF file online via EDAS.
+question_answer_v2\Author_Call For Workshop Proposals.csv,What are the key dates related to the workshop proposals?,"Proposal Submission Deadline: 15 March 2023, Acceptance Notification: 15 April 2023, CFP for Web Posting: 25 April 2023, Workshop Paper Submission Deadline: 15 July 2023, Paper Acceptance Notification: 1 September 2023, Camera Ready: 1 October 2023."
+question_answer_v2\Author_Call For Workshop Proposals.csv,What is the duration option for workshops?,Half-day or full-day.
+question_answer_v2\Author_Call For Workshop Proposals.csv,When can the workshops be held?,"Sunday, December 4, or Thursday, December 8, 2023."
+question_answer_v2\Author_instruction For Symposium Final Paper Upload.csv,What is the first step to prepare a final Symposium paper for the conference after registration and payment?,Prepare the paper in the IEEE double-column format using IEEE Conference Proceeding templates.
+question_answer_v2\Author_instruction For Symposium Final Paper Upload.csv,How many final Symposium  papers can one registration upload if the registrant is an author on them?,Up to three final papers.
+question_answer_v2\Author_instruction For Symposium Final Paper Upload.csv,Is it permissible to use a Symposium registration confirmation code for a paper not authored by the registrant?,"No, it's considered a serious offense."
+question_answer_v2\Author_instruction For Symposium Final Paper Upload.csv,What formatting tool should be used to ensure the Symposium  paper is compliant for submission?,Use IEEE PDF eXpress.
+question_answer_v2\Author_instruction For Symposium Final Paper Upload.csv,What is the conference ID required to create an IEEE PDF eXpress account?,54140X.
+question_answer_v2\Author_instruction For Symposium Final Paper Upload.csv,What should authors not add to their final Symposium paper submission?,"Any page numbering, header, or footer."
+question_answer_v2\Author_instruction For Symposium Final Paper Upload.csv,What is the website for uploading the final paper for GLOBECOM 2023?,https://edas.info/N30585
+question_answer_v2\Author_instruction For Symposium Final Paper Upload.csv,What are the requirements for uploading the final Symposium  paper?,Registration confirmation code and EDAS ID.
+question_answer_v2\Author_instruction For Symposium Final Paper Upload.csv,How should LaTeX users prepare their files for IEEE PDF eXpress?,"Create a zip file including dvi and eps figure files, then upload it for conversion."
+question_answer_v2\Author_instruction For Symposium Final Paper Upload.csv,What is the last step in the Symposium paper submission process after uploading the paper?,Submit the IEEE electronic copyright form.
+question_answer_v2\Author_instruction For Symposium Final Paper Upload.csv,What is the consequence if a Symposium  paper is not presented at the conference?,IEEE reserves the right to exclude the paper from inclusion in IEEEXplore.
+question_answer_v2\Author_instruction For Symposium Final Paper Upload.csv,What should be the first line in a LaTeX source file for IEEEtran class?,"\documentclass[10pt,conference]{IEEEtran}"
+question_answer_v2\Author_instruction For Symposium Final Paper Upload.csv,How is the author affiliation listed in IEEE conferences compared to IEEE transactions?,"In IEEE conferences, the author affiliation is listed under the author's name."
+question_answer_v2\Author_instruction For Symposium Final Paper Upload.csv,What is the purpose of using IEEE PDF eXpress for the Symposium final manuscript?,To check if the PDF file is Xplore-compliant and to convert source files into a compliant PDF file.
+question_answer_v2\Author_instruction For Symposium Final Paper Upload.csv,Is the 'Approve for collection' option in IEEE PDF eXpress usable for the Symposium final submission?,"No, do not use 'Approve for collection' in PDF eXpress for the final submission."
+question_answer_v2\Author_instruction For Symposium Final Paper Upload.csv,What are the general formatting instructions for the Symposium final paper?,The paper should be prepared in IEEE double-column format.
+question_answer_v2\Author_instruction For Symposium Final Paper Upload.csv,What information is required for LaTeX users to convert their files on IEEE PDF eXpress?,A zip file with dvi and eps figure files.
+question_answer_v2\Author_instruction For Symposium Final Paper Upload.csv,How should MS Word users prepare their files for IEEE PDF eXpress?,Upload the Word file to the site for conversion into a compliant PDF file.
+question_answer_v2\Author_instruction For Symposium Final Paper Upload.csv,What is the format for the final Symposium  paper in terms of text size and document class?,10pt text size in the IEEEtran conference class.
+question_answer_v2\Author_instruction For Symposium Final Paper Upload.csv,Are formatting checks enforced during the submission phase for Symposium final manuscripts?,"Yes, formatting checks are enforced."
+question_answer_v2\Author_Instructions For Symposium And Workshop Presenters.csv,What was the acceptance rate for papers submitted to Technical Symposia and Workshops at IEEE GLOBECOM 2023?,Less than 40%.
+question_answer_v2\Author_Instructions For Symposium And Workshop Presenters.csv,What are the two formats for presenting accepted papers at the conference?,Lecture-style and interactive-style.
+question_answer_v2\Author_Instructions For Symposium And Workshop Presenters.csv,Is there any quality distinction between lecture-style and interactive-style presentations?,"No, there is no quality distinction between the two presentation formats."
+question_answer_v2\Author_Instructions For Symposium And Workshop Presenters.csv,Where will lecture-style presentations for the IEEE GLOBECOM 2023 Symposia be held?,In theatre-style meeting rooms.
+question_answer_v2\Author_Instructions For Symposium And Workshop Presenters.csv,How long is each lecture-style presentation allocated?,"18 minutes each (15 minutes of presentation time, plus 3 minutes for Q&A and change of speaker)."
+question_answer_v2\Author_Instructions For Symposium And Workshop Presenters.csv,What denotes Lecture Sessions in the Technical Program?,"By the Symposium acronym followed by a sequence number (e.g., CISS 1)."
+question_answer_v2\Author_Instructions For Symposium And Workshop Presenters.csv,What facilities will be available in the session room for lecture-style presentations?,"A laptop, projector, screen, PowerPoint and Office software, Acrobat Reader, and a clicker/pointer."
+question_answer_v2\Author_Instructions For Symposium And Workshop Presenters.csv,What are the guidelines for preparing a lecture-style presentation?,"Prepare slides in a concise, clear, and precise manner; present key principles, facts, and results."
+question_answer_v2\Author_Instructions For Symposium And Workshop Presenters.csv,Where are Interactive Sessions for IEEE GLOBECOM 2023 Symposia scheduled?,In open space (Grand Ballroom level 3) on LED TV screens.
+question_answer_v2\Author_Instructions For Symposium And Workshop Presenters.csv,How long are Interactive Sessions scheduled?,45-minute time slots.
+question_answer_v2\Author_Instructions For Symposium And Workshop Presenters.csv,What format should be used for presentations during Interactive Sessions?,On your own laptop connected to the LED screen (HDMI).
+question_answer_v2\Author_Instructions For Symposium And Workshop Presenters.csv,What should always be visible on the screen during Interactive Sessions?,Paper title and list of authors with affiliations.
+question_answer_v2\Author_Instructions For Symposium And Workshop Presenters.csv,Do Workshop presenters at IEEE GLOBECOM 2023 need to adhere to the same guidelines as lecture-style presentations?,"Yes, they are required to adhere to the same guidelines."
+question_answer_v2\Author_Instructions For Symposium And Workshop Presenters.csv,Where can Workshop presenters find specific guidelines regarding presentation timing?,From the appropriate workshop organizers.
+question_answer_v2\Author_instructions For Workshop Final Paper Upload.csv,Is it mandatory to register and pay in full for the conference before uploading the final paper?,Yes
+question_answer_v2\Author_instructions For Workshop Final Paper Upload.csv,What is the maximum number of final workshop papers that can be uploaded with one workshop registration?,Three
+question_answer_v2\Author_instructions For Workshop Final Paper Upload.csv,Who is allowed to use the registration confirmation code for paper submission?,The registrant who is an author or co-author of the paper
+question_answer_v2\Author_instructions For Workshop Final Paper Upload.csv,Where should the final paper be formatted for submission?,In the IEEE double-column format using IEEE Conference Proceeding templates
+question_answer_v2\Author_instructions For Workshop Final Paper Upload.csv,How should the first line in a LaTeX source file be formatted for IEEEtran class?,"\documentclass[10pt,conference]{IEEEtran}"
+question_answer_v2\Author_instructions For Workshop Final Paper Upload.csv,What is the necessity of checking if your PDF file is Xplore-compliant?,To ensure it meets the formatting requirements for IEEE Xplore
+question_answer_v2\Author_instructions For Workshop Final Paper Upload.csv,How can you submit your IEEE electronic copyright form?,"By clicking ""Submit Copyright"" within your author account"
+question_answer_v2\Author_instructions For Workshop Final Paper Upload.csv,What is the conference ID to be used when creating an IEEE PDF eXpress account?,58843X
+question_answer_v2\Author_instructions For Workshop Final Paper Upload.csv,Is violation of the registration confirmation code rule considered a serious offense?,Yes
+question_answer_v2\Author_instructions For Workshop Final Paper Upload.csv,What should be done after registering and paying for the conference?,Prepare and upload the final paper
+question_answer_v2\Author_instructions For Workshop Final Paper Upload.csv,What format should not be added to the final paper?,"No page numbering, header, or footer"
+question_answer_v2\Author_instructions For Workshop Final Paper Upload.csv,What is the purpose of the IEEE PDF eXpress website?,To check and convert files into IEEE Xplore-compliant PDFs
+question_answer_v2\Author_instructions For Workshop Final Paper Upload.csv,What are the requirements for uploading the final paper?,Registration confirmation code and EDAS ID
+question_answer_v2\Author_instructions For Workshop Final Paper Upload.csv,What type of file should be uploaded for the final paper submission?,PDF generated by the IEEE PDF eXpress website
+question_answer_v2\Author_instructions For Workshop Final Paper Upload.csv,What action should not be taken in PDF eXpress for the final paper?,Do NOT use 'Approve for collection'
+question_answer_v2\Author_instructions For Workshop Final Paper Upload.csv,Which conference proceedings is the final paper being prepared for?,GLOBECOM 2023
+question_answer_v2\Author_instructions For Workshop Final Paper Upload.csv,What might happen if a paper is not presented at the conference?,It may be excluded from IEEE Xplore
+question_answer_v2\Committee_Industry Forums And Exhibition Committee.csv,What is the role of Nordin Ramli in the Industrial Forum & Exhibition?,Co-Chair
+question_answer_v2\Committee_Industry Forums And Exhibition Committee.csv,Which organization is Nordin Ramli affiliated with in the Industrial Forum & Exhibition?,"MIMOS, Malaysia"
+question_answer_v2\Committee_Industry Forums And Exhibition Committee.csv,"Who is the Co-Chair from IST - University Lisbon, Portugal for the Industrial Forum & Exhibition?",Luis M. Correia
+question_answer_v2\Committee_Industry Forums And Exhibition Committee.csv,What position does Zhisheng Niu hold in the Industry Panel Program?,Co-Chair
+question_answer_v2\Committee_Industry Forums And Exhibition Committee.csv,Which university is Zhisheng Niu associated with in the Industrial Forum & Exhibition?,"Tsinghua University, China"
+question_answer_v2\Committee_Industry Forums And Exhibition Committee.csv,Who is a Co-Chair from the USA for the Industry Panel Program?,Kamran Sayrafian
+question_answer_v2\Committee_Industry Forums And Exhibition Committee.csv,Which organization does Kamran Sayrafian represent in the Industry Panel Program?,"NIST, USA"
+question_answer_v2\Committee_Industry Forums And Exhibition Committee.csv,Who represents Germany as a Co-Chair in the Industry Panel Program?,Bosco Fernandes
+question_answer_v2\Committee_Industry Forums And Exhibition Committee.csv,Who is the Co-Chair from Telekom Malaysia for the Industry Panel Program?,Anwar Faizd Osman
+question_answer_v2\Committee_Industry Forums And Exhibition Committee.csv,Who are the Co-Chairs for the Podium Pitches and Industry Presentations?,Mohd Fais Mansor and Bernard Lim
+question_answer_v2\Committee_Industry Forums And Exhibition Committee.csv,Which university is Mohd Fais Mansor affiliated with in the Industry Panel Program?,"Universiti Kebangsaan, Malaysia"
+question_answer_v2\Committee_Industry Forums And Exhibition Committee.csv,Where does Bernard Lim work ?,"Appscard Global Research & Innovation Center, Malaysia"
+question_answer_v2\Committee_Industry Forums And Exhibition Committee.csv,What is the nationality of Nordin Ramli?,Malaysian
+question_answer_v2\Committee_Industry Forums And Exhibition Committee.csv,Which country does Luis M. Correia represent in the Industrial Forum & Exhibition?,Portugal
+question_answer_v2\Committee_Industry Forums And Exhibition Committee.csv,Where is Kamran Sayrafian from?,USA
+question_answer_v2\Committee_Industry Forums And Exhibition Committee.csv,What organization is Anwar Faizd Osman associated with in Malaysia?,Telekom Malaysia
+question_answer_v2\Committee_Industry Forums And Exhibition Committee.csv,What is Mohd Fais Mansor's role in the Podium Pitches and Industry Presentations?,Co-Chair
+question_answer_v2\Committee_Industry Forums And Exhibition Committee.csv,Where is Bernard Lim's organization based?,Malaysia
+question_answer_v2\Committee_Industry Forums And Exhibition Committee.csv,"What is the common role of Nordin Ramli, Zhisheng Niu, and Mohd Fais Mansor?",Co-Chairs in different sections of the event
+question_answer_v2\Committee_Industry Forums And Exhibition Committee.csv,Which panel does Luis M. Correia co-chair?,Industrial Forum & Exhibition
+question_answer_v2\Committee_Industry Forums And Exhibition Committee.csv,Is there a representative from Germany in the Industry Panel Program Co-Chairs?,"Yes, Bosco Fernandes"
+question_answer_v2\Committee_Industry Forums And Exhibition Committee.csv,Which university is associated with Luis M. Correia?,"IST - University Lisbon, Portugal"
+question_answer_v2\Committee_Industry Forums And Exhibition Committee.csv,What is the role of Kamran Sayrafian at NIST?,Industry Panel Program Co-Chair
+question_answer_v2\Committee_Industry Forums And Exhibition Committee.csv,Who is a representative from Malaysia in the Industry Panel Program?,Anwar Faizd Osman
+question_answer_v2\Committee_Industry Forums And Exhibition Committee.csv,Which organization does Mohd Fais Mansor represent?,"Universiti Kebangsaan, Malaysia"
+question_answer_v2\Committee_Industry Forums And Exhibition Committee.csv,Where is Appscard Global Research & Innovation Center located?,Malaysia
+question_answer_v2\Committee_Industry Forums And Exhibition Committee.csv,Who co-chairs the Industry Panel Program with Zhisheng Niu?,"Kamran Sayrafian, Bosco Fernandes, Anwar Faizd Osman"
+question_answer_v2\Committee_Industry Forums And Exhibition Committee.csv,Is there a representative from China in the Industry Panel Program Co-Chairs?,"Yes, Zhisheng Niu"
+question_answer_v2\Committee_Industry Forums And Exhibition Committee.csv,What is the role of Bernard Lim in the industry presentations?,Co-Chair
+question_answer_v2\Committee_Industry Forums And Exhibition Committee.csv,Which organization is Nordin Ramli a part of?,"MIMOS, Malaysia"
+question_answer_v2\Committee_Industry Forums And Exhibition Committee.csv,What is the role of Anwar Faizd Osman at Telekom Malaysia?,Industry Panel Program Co-Chair
+question_answer_v2\Committee_Industry Forums And Exhibition Committee.csv,Which event is Luis M. Correia associated with as a Co-Chair?,Industrial Forum & Exhibition
+question_answer_v2\Committee_Industry Forums And Exhibition Committee.csv,What event is Nordin Ramli co-chairing?,Industrial Forum & Exhibition
+question_answer_v2\Committee_Industry Forums And Exhibition Committee.csv,"Where is MIMOS, the organization Nordin Ramli is affiliated with, located?",Malaysia
+question_answer_v2\Committee_Industry Forums And Exhibition Committee.csv,What academic institution is Zhisheng Niu associated with?,"Tsinghua University, China"
+question_answer_v2\Committee_Industry Forums And Exhibition Committee.csv,What is the national origin of Bosco Fernandes?,Germany
+question_answer_v2\Committee_Industry Forums And Exhibition Committee.csv,"What type of organization is Telekom Malaysia, represented by Anwar Faizd Osman?",Telecommunications
+question_answer_v2\Committee_Industry Forums And Exhibition Committee.csv,"What is the field of study at Universiti Kebangsaan, where Mohd Fais Mansor works?",Unspecified
+question_answer_v2\Committee_Industry Forums And Exhibition Committee.csv,Who are the Co-Chairs of the Industry Panel Program from the USA and Germany?,Kamran Sayrafian and Bosco Fernandes
+question_answer_v2\Committee_Industry Forums And Exhibition Committee.csv,Which organization in the USA is Kamran Sayrafian a part of?,NIST
+question_answer_v2\Committee_Industry Forums And Exhibition Committee.csv,Who are all the Co-Chairs from Malaysia?,"Nordin Ramli, Anwar Faizd Osman, Mohd Fais Mansor, Bernard Lim"
+question_answer_v2\Committee_Industry Forums And Exhibition Committee.csv,What type of event is the Industrial Forum & Exhibition?,Professional Conference and Exhibition
+question_answer_v2\Committee_Organizing Committee.csv,Who is the General Chair of the conference in organizing committee?,"Khaled B. Letaief from Hong Kong University of Science and Technology, Hong Kong"
+question_answer_v2\Committee_Organizing Committee.csv,Who are the Executive Co-Chairs in organizing committee ?,"Borhanuddin Mohd Ali from Universiti Putra Malaysia, Malaysia and Hikmet Sari from Nanjing University of Posts and Telecommunications, China"
+question_answer_v2\Committee_Organizing Committee.csv,Who are the Technical Program Co-Chairs in organizing committee ?,"Stefano Bregni from Politecnico di Milano, Italy, Rose Qingyang Hu from Utah State University, USA, and Jiang (Linda) Xie from University of North Carolina at Charlotte, USA"
+question_answer_v2\Committee_Organizing Committee.csv,Who are the Industrial Forum & Exhibition Co-Chairs in organizing committee ?,"Nordin Ramli from MIMOS, Malaysia and Luis M. Correia from IST - University Lisbon, Portugal"
+question_answer_v2\Committee_Organizing Committee.csv,Who is the Senior Advisor for the event in organizing committee ?,"Datuk Hod Parman from TS Global Network Sdn. Bhd., Malaysia"
+question_answer_v2\Committee_Organizing Committee.csv,Who holds the position of Local Operations Chair in organizing committee ?,"Fazirulhisyam Hashim from Universiti Putra Malaysia, Malaysia"
+question_answer_v2\Committee_Organizing Committee.csv,Who is the Finance Chair in organizing committee ?,"Tiong Sieh Kiong from Universiti Tenaga Nasional, Malaysia"
+question_answer_v2\Committee_Organizing Committee.csv,Who is the Web & Social Media Chair in organizing committee ?,"Khairil Anuar from Multimedia University, Malaysia"
+question_answer_v2\Committee_Organizing Committee.csv,Who are the Publicity Co-Chairs and what regions do they represent in organizing committee ?,"AP: Hyunbum Kim from Incheon National University, South Korea, EMEA: Ranga Rao Venkatesha Prasad from Tu Delft, Netherlands, NA/EMEA: Eirini Eleni Tsiropoulou from University of New Mexico, USA, NA: Telex Ngatched from Memorial University of Newfoundland, Canada, LA: Yessica Saez from Universidad Tecnol?gica de Panam?, Panama"
+question_answer_v2\Committee_Organizing Committee.csv,Who are the Patronage Co-Chairs in organizing committee ?,"Matti Latva-aho from University Oulu, Finland and Azwan Mahmud from Multimedia University, Malaysia"
+question_answer_v2\Committee_Organizing Committee.csv,Who is the GIMS Advisor in organizing committee ?,Dong In Kim from Sungkyunkwan University (SKKU)
+question_answer_v2\Committee_Organizing Committee.csv,Who is the GITC Advisor in organizing committee ?,"Hossam Hassanein from Queen's University, Kingston, Ontario, Canada"
+question_answer_v2\Committee_Organizing Committee.csv,Who is the ComSoc Treasurer in organizing committee ?,"Bruce Worthman, IEEE ComSoc Staff, Director of Finance and Business Operations"
+question_answer_v2\Committee_Organizing Committee.csv,Who is the ComSoc Project Manager in organizing committee ?,"Jimmy Le, IEEE ComSoc Staff, Senior Conference Planner"
+question_answer_v2\Committee_Technical Program Committee.csv,Who are the Technical Program Co-Chairs in committee?,"Stefano Bregni, Politecnico di Milano, Italy
+Rose Qingyang Hu, Utah State University, USA
+Jiang (Linda) Xie, University of North Carolina at Charlotte, USA"
+question_answer_v2\Committee_Technical Program Committee.csv,Who are the Tutorial Program Co-Chairs in committee?,"Octavia Dobre, Memorial University, Canada"
+question_answer_v2\Committee_Technical Program Committee.csv,Who are the Workshop Program Co-Chairs in committee?,"Christos Verikoukis, University of Patras, Greece"
+question_answer_v2\Committee_Technical Program Committee.csv,Who are the Publication Co-Chairs in committee?,"Mutlu Koca, Bogazi?i University, Turkey
+Mahamod Ismail, Universiti Kebangsaan, Malaysia
+George Rouskas, North Carolina State University, USA"
+question_answer_v2\Committee_Technical Program Committee.csv,Who are the Student Travel Grant Co-Chairs in committee?,"Zhu Han, University of Houston, TX, USA"
+question_answer_v2\Hotel_child Care Grant.csv,Who is eligible for the IEEE ComSoc childcare grants?,IEEE ComSoc members attending Globecom with small children.
+question_answer_v2\Hotel_child Care Grant.csv,How much is the childcare grant provided by IEEE ComSoc?,Up to US$500 per family.
+question_answer_v2\Hotel_child Care Grant.csv,What is the purpose of the IEEE ComSoc childcare grants?,To reimburse expenses for childcare due to conference attendance.
+question_answer_v2\Hotel_child Care Grant.csv,Are attendees responsible for their own childcare arrangements?,"Yes, attendees must make their own childcare arrangements."
+question_answer_v2\Hotel_child Care Grant.csv,What expenses are covered by the childcare grant?,Child care services incurred because of attendance at the conference.
+question_answer_v2\Hotel_child Care Grant.csv,Are childcare services in the conference city reimbursable?,"Yes, if incurred due to conference attendance."
+question_answer_v2\Hotel_child Care Grant.csv,Are travel expenses for the child covered?,"No, travel expenses for the child are not eligible for reimbursement."
+question_answer_v2\Hotel_child Care Grant.csv,Are expenses for a caregiver's travel and stay covered?,"No, these expenses are not eligible for reimbursement."
+question_answer_v2\Hotel_child Care Grant.csv,Is ongoing reimbursement available for childcare expenses for home-based care?,"No, these are not eligible for reimbursement."
+question_answer_v2\Hotel_child Care Grant.csv,What is required for reimbursement of childcare expenses?,Submission of receipts for reimbursable expenses.
+question_answer_v2\Hotel_child Care Grant.csv,What is the deadline for applying for a childcare grant?,15 November 2023.
+question_answer_v2\Hotel_child Care Grant.csv,When will grant recipients be notified?,No later than 21 November 2023.
+question_answer_v2\Hotel_child Care Grant.csv,Are children allowed in session rooms at the conference?,"No, children are not permitted entry into session rooms."
+question_answer_v2\Hotel_child Care Grant.csv,Are children allowed on the Exhibit Hall floor during setup or dismantling hours?,"No, except during scheduled show hours with a completed Minor Release Form."
+question_answer_v2\Hotel_child Care Grant.csv,Where can the Minor Release Form be obtained?,At the Registration Desk in the Registration Area.
+question_answer_v2\Hotel_hotels.csv,What is the main conference hotel for IEEE Globecom 2023?,The Grand Hyatt Kuala Lumpur.
+question_answer_v2\Hotel_hotels.csv,What are some unique features of the Grand Hyatt Kuala Lumpur?,It has the Thirty8 restaurant on the 38th floor with panoramic city views and a striking lobby on the 40th floor.
+question_answer_v2\Hotel_hotels.csv,How close is the Grand Hyatt to the Kuala Lumpur Convention Centre?,It is adjacent to the Convention Centre.
+question_answer_v2\Hotel_hotels.csv,What is the advantage of the Grand Hyatt's location in Kuala Lumpur?,"It is within walking distance of the Golden Triangle, offering easy access to shopping, dining, and entertainment."
+question_answer_v2\Hotel_hotels.csv,What is the distance of the Mandarin Oriental Kuala Lumpur from the convention center?,0.2 km
+question_answer_v2\Hotel_hotels.csv,What is the distance of the Traders Hotel from the convention center?,0.3 km
+question_answer_v2\Hotel_hotels.csv,What is the distance of the Impiana KLCC Hotel from the convention center?,0.3 km
+question_answer_v2\Hotel_hotels.csv,What is the distance of the Renaissance Kuala Lumpur Hotel from the convention center?,0.5 km
+question_answer_v2\Hotel_hotels.csv,What is the distance of the Shangri-La Hotel from the convention center?,0.5 km
+question_answer_v2\Hotel_hotels.csv,What is the distance of the Prince Hotel & Residence Kuala Lumpur from the convention center?,0.6 km
+question_answer_v2\Hotel_hotels.csv,What is the distance of The Westin Kuala Lumpur from the convention center?,0.7 km
+question_answer_v2\Hotel_hotels.csv,What is the distance of the JW Marriott Kuala Lumpur from the convention center?,0.7 km
+question_answer_v2\Hotel_hotels.csv,What is the distance of the Pacific Regency Hotel Suites from the convention center?,1.0 km
+question_answer_v2\Hotel_hotels.csv,"What is the distance of The Ritz-Carlton, Kuala Lumpur from the convention center?",0.7 km
+question_answer_v2\Hotel_kuala Lumpur Convention Centre.csv,What event is being hosted at the Kuala Lumpur Convention Centre?,IEEE Globecom 2023.
+question_answer_v2\Hotel_kuala Lumpur Convention Centre.csv,What makes the Kuala Lumpur Convention Centre an ideal venue for this event?,"It is Malaysia's foremost facility for hosting large-scale meetings and conventions, with grand halls and well-appointed meeting rooms."
+question_answer_v2\Hotel_kuala Lumpur Convention Centre.csv,What is a key feature of the KL Convention Centre's location?,"It is set in the heart of Kuala Lumpur, overlooking the PETRONAS Twin Towers and KLCC Park."
+question_answer_v2\Hotel_kuala Lumpur Convention Centre.csv,How does the location of KL Convention Centre enhance the conference experience?,"It offers opportunities for post-conference leisure and networking, including exploring the city and indulging in shopping and dining."
+question_answer_v2\Hotel_kuala Lumpur Convention Centre.csv,What facilities does the Kuala Lumpur Convention Centre offer for the conference?,"Grand halls for large-scale sessions, versatile meeting rooms for discussions and workshops, equipped with cutting-edge technology."
+question_answer_v2\Hotel_kuala Lumpur Convention Centre.csv,What kind of support does KL Convention Centre provide?,Professional and responsive staff to ensure a seamless conference experience.
+question_answer_v2\Hotel_kuala Lumpur Convention Centre.csv,What are the benefits of KL Convention Centre's location within Kuala Lumpur City Centre?,"Easy access to major hotels, shopping centers, public transportation, and local amenities."
+question_answer_v2\Hotel_kuala Lumpur Convention Centre.csv,What does the choice of Kuala Lumpur Convention Centre signify for the IEEE Globecom 2023?,"A commitment to delivering a remarkable conference experience with flexible spaces, advanced technology, and exceptional service."
+question_answer_v2\Hotel_kuala Lumpur.csv,What is Malaysia known for?,"Malaysia is known for its breathtaking diversity, captivating contrasts, vibrant cityscapes, lush rainforests, pristine beaches, cultural experiences, delectable cuisine, and stunning natural beauty."
+question_answer_v2\Hotel_kuala Lumpur.csv,Where is Malaysia located?,Malaysia is located in the heart of Southeast Asia.
+question_answer_v2\Hotel_kuala Lumpur.csv,What is the capital of Malaysia?,The capital of Malaysia is Kuala Lumpur.
+question_answer_v2\Hotel_kuala Lumpur.csv,What are the main features of Kuala Lumpur's cityscape?,"Kuala Lumpur's cityscape includes gleaming skyscrapers, colonial architecture, the Petronas Twin Towers, Petaling Street flea market, and Batu Caves."
+question_answer_v2\Hotel_kuala Lumpur.csv,What is the main hub of Kuala Lumpur known as?,The main hub of Kuala Lumpur is called the Golden Triangle.
+question_answer_v2\Hotel_kuala Lumpur.csv,What are some of the biggest attractions in Kuala Lumpur for shopping enthusiasts?,The biggest attractions for shopping in Kuala Lumpur are expansive shopping malls like Pavilion KL and Suria KLCC.
+question_answer_v2\Hotel_kuala Lumpur.csv,What makes Kuala Lumpur a favorite city for foodies?,"Kuala Lumpur's thousands of hawker stalls, cafes, and restaurants serving every type of delicacy make it a favorite for foodies."
+question_answer_v2\Hotel_kuala Lumpur.csv,What are some popular Malaysian dishes?,"Popular Malaysian dishes include Nasi Lemak, Rendang, Char Kway Teow, Roti Canai, and Hainanese Chicken Rice."
+question_answer_v2\Hotel_kuala Lumpur.csv,What natural attractions does Malaysia offer?,"Malaysia offers lush rainforests, pristine beaches, vibrant marine life, Langkawi Island, and Mount Kinabalu."
+question_answer_v2\Hotel_kuala Lumpur.csv,What are the main cultural influences in Malaysia?,"The main cultural influences in Malaysia are Malay, Chinese, Indian, and indigenous cultures."
+question_answer_v2\Hotel_kuala Lumpur.csv,Which festivals are celebrated in Malaysia?,"Festivals celebrated in Malaysia include Hari Raya, Chinese New Year, and Deepavali."
+question_answer_v2\Hotel_kuala Lumpur.csv,What phrase reflects the warm hospitality of Malaysians?,"The phrase 'Selamat Datang,' meaning 'Welcome,' reflects the warm hospitality of Malaysians."
+question_answer_v2\Hotel_kuala Lumpur.csv,What landmark in Kuala Lumpur is known for its sky bridge and observation deck?,The Petronas Twin Towers are known for their sky bridge and observation deck.
+question_answer_v2\Hotel_kuala Lumpur.csv,What is special about Batu Caves in Kuala Lumpur?,Batu Caves are special for housing Hindu temples within ancient limestone caves that are over 400 million years old.
+question_answer_v2\Hotel_kuala Lumpur.csv,Which areas constitute the Golden Triangle in Kuala Lumpur?,"The Golden Triangle in Kuala Lumpur comprises Bukit Bintang, KLCC, and Chinatown."
+question_answer_v2\Hotel_kuala Lumpur.csv,Where can one find green spaces and natural attractions near Kuala Lumpur?,"Near Kuala Lumpur, one can find green spaces and natural attractions in lush forested hills with hiking trails leading to waterfalls."
+question_answer_v2\Hotel_kuala Lumpur.csv,What types of cuisines influence Malaysian food?,"Malaysian food is influenced by Malay, Chinese, Indian, and Nyonya cuisines."
+question_answer_v2\Hotel_kuala Lumpur.csv,What are some other cultural attractions in Kuala Lumpur?,Other cultural attractions in Kuala Lumpur include the historic Sultan Abdul Samad Building and the National Mosque with stunning Islamic architecture.
+question_answer_v2\Hotel_kuala Lumpur.csv,What are some features of Langkawi Island?,"Langkawi Island features stunning beaches, mangrove forests, and vibrant underwater worlds for snorkeling and diving."
+question_answer_v2\Hotel_kuala Lumpur.csv,What is significant about Mount Kinabalu?,"Mount Kinabalu is significant for being Southeast Asia's highest peak, attracting trekkers."
+question_answer_v2\Hotel_local Attractions.csv,What are the Petronas Twin Towers known for?,"Symbol of Kuala Lumpur's modernity and ambition, with impressive architecture and panoramic city views."
+question_answer_v2\Hotel_local Attractions.csv,What facilities are adjacent to the Petronas Twin Towers?,Suria KLCC mall and KLCC Park with a wading pool and dancing fountains.
+question_answer_v2\Hotel_local Attractions.csv,What is the Kuala Lumpur Tower?,A telecommunications tower offering panoramic views of the city and a revolving restaurant.
+question_answer_v2\Hotel_local Attractions.csv,What is Bukit Bintang famous for?,"Shopping and entertainment district with retail shops, luxury malls, street markets, dining, and nightlife."
+question_answer_v2\Hotel_local Attractions.csv,What can visitors experience at Batu Caves?,"Ancient limestone caverns, Hindu temples, a statue of Lord Murugan, and a rich tapestry of Hindu culture."
+question_answer_v2\Hotel_local Attractions.csv,What is the Forest Research Institute Malaysia?,"A 600-hectare rainforest with nature trails, a canopy walkway, and a herbarium, focusing on tropical forest research and conservation."
+question_answer_v2\Hotel_local Attractions.csv,What is the significance of the Sultan Abdul Samad Building?,"A historic landmark showcasing Moorish and Mughal architecture, symbolizing Malaysia's history and colonial past."
+question_answer_v2\Hotel_local Attractions.csv,What is unique about Masjid Negara?,"The National Mosque of Malaysia with a 73-meter-tall minaret and a large dome, known for its Islamic architecture and tranquil gardens."
+question_answer_v2\Hotel_local Attractions.csv,What attractions does the KL Bird Park offer?,"Lush aviaries, exotic avian species, bird conservation insights, a Hornbill Restaurant, and educational programs."
+question_answer_v2\Hotel_transportations.csv,What are the main airports serving Kuala Lumpur?,Kuala Lumpur International Airport Terminal 1 (KLIA T1) and Kuala Lumpur International Airport Terminal 2 (KLIA T2).
+question_answer_v2\Hotel_transportations.csv,What is the distance of KLIA T1 from Kuala Lumpur's city center?,Approximately 50 kilometers.
+question_answer_v2\Hotel_transportations.csv,How far is KLIA T2 from KLIA T1?,2 kilometers.
+question_answer_v2\Hotel_transportations.csv,What is KL Sentral?,"Malaysia's largest transportation hub, connecting to various rail networks."
+question_answer_v2\Hotel_transportations.csv,What is the KLIA Ekspres?,A non-stop airport rail link service between KLIA T1 and Kuala Lumpur Sentral (KL Sentral).
+question_answer_v2\Hotel_transportations.csv,How long does the KLIA Ekspres take from KLIA T1 to KL Sentral?,28 minutes.
+question_answer_v2\Hotel_transportations.csv,How much does a one-way trip on the KLIA Ekspres cost?,MYR 55.
+question_answer_v2\Hotel_transportations.csv,What are the taxi fare estimates from KLIA T1/KLIA T2 to KLCC?,"Budget Taxi: MYR 74.30, Premier Taxi: MYR 102.10."
+question_answer_v2\Hotel_transportations.csv,What is the estimated journey time by taxi from KLIA to KLCC?,Approximately 50-60 minutes.
+question_answer_v2\Hotel_transportations.csv,Is there a shuttle bus service from KLIA T1 and T2 to KL Sentral?,Yes.
+question_answer_v2\Hotel_transportations.csv,What are the operating hours of the Light Rail Transit (LRT) in Kuala Lumpur?,0600 - 2400.
+question_answer_v2\Hotel_transportations.csv,What is the route of the Kuala Lumpur Monorail system?,From Titiwangsa Station to KL Sentral Station.
+question_answer_v2\Hotel_transportations.csv,What are the major city bus lines in Kuala Lumpur?,Rapid KL.
+question_answer_v2\Hotel_transportations.csv,Do taxis in Kuala Lumpur hail at designated stands?,Yes.
+question_answer_v2\Hotel_transportations.csv,Is an international driving license required for car rental in Kuala Lumpur?,Yes.
+question_answer_v2\Hotel_transportations.csv,What are popular ride-hailing services in Kuala Lumpur?,Services like Grab.
+question_answer_v2\Hotel_travel Information.csv,Where is Kuala Lumpur located?,Kuala Lumpur is located on the west coast of the Malaysian Peninsular between Thailand and Singapore.
+question_answer_v2\Hotel_travel Information.csv,What are the essential travel documents for visiting Kuala Lumpur?,"Visitors need a valid passport and, in some cases, a visa for entry into Kuala Lumpur."
+question_answer_v2\Hotel_travel Information.csv,What is the climate like in Kuala Lumpur?,"Kuala Lumpur has a tropical climate with little seasonal variation, temperatures typically range between 18C to 30C, with summer temperatures ranging from 25C to 42C and winter temperatures around 20C, dropping to 16C at night."
+question_answer_v2\Hotel_travel Information.csv,What languages are spoken in Kuala Lumpur?,"The national language is Malay, but English is widely spoken, especially in hotels, restaurants, and tourist areas. Many Malaysians are also multilingual, speaking languages like Chinese and Tamil."
+question_answer_v2\Hotel_travel Information.csv,What is the currency used in Kuala Lumpur?,"The currency used is the Malaysian Ringgit (MYR), with coins in denominations of 5, 10, 20, and 50 sen, and banknotes in RM1, RM5, RM10, RM20, RM50, RM100, and RM200."
+question_answer_v2\Hotel_travel Information.csv,What are the general banking hours in Malaysia?,"Banking hours are usually from 9:30 am to 4:30 pm, Monday to Friday. Some banks are open on Saturdays."
+question_answer_v2\Hotel_travel Information.csv,What public transportation options are available in Kuala Lumpur?,"Kuala Lumpur has the LRT, MRT, and Monorail, along with RapidKL buses for urban travel, and intercity trains and express buses for travel between cities. Taxis and ride-hailing services like Grab are also available."
+question_answer_v2\Hotel_travel Information.csv,What time zone does Malaysia follow?,"Malaysia follows Malaysia Standard Time (MYT), which is UTC+8."
+question_answer_v2\Hotel_travel Information.csv,What is the standard electrical voltage in Kuala Lumpur?,The standard voltage is 230-240 Volts at a frequency of 50 Hz. Rural areas may differ.
+question_answer_v2\Hotel_travel Information.csv,How accessible is internet in Kuala Lumpur?,"High Speed Broadband is widely accessible in hotels, internet cafes, and shopping malls."
+question_answer_v2\Hotel_travel Information.csv,What is the main conference hotel in Kuala Lumpur?,The Grand Hyatt is identified as the main conference hotel.
+question_answer_v2\Hotel_visa Letter Request.csv,Who is eligible to receive a Visa Letter from IEEE ComSoc?,"Speakers, Authors, Committee Members, and Attendees who have paid in full."
+question_answer_v2\Hotel_visa Letter Request.csv,What is the purpose of ComSoc issuing a Visa Letter?,Only for the conference.
+question_answer_v2\Hotel_visa Letter Request.csv,What is the processing time for a Visa Letter request?,3-5 business days.
+question_answer_v2\Hotel_visa Letter Request.csv,"What is the fee for a hard copy of the visa letter, and how is it charged?","US$25, added to the conference registration fee."
+question_answer_v2\Hotel_visa Letter Request.csv,What should participants do before making travel arrangements?,Check entry and visa requirements at least 3 months in advance.
+question_answer_v2\Hotel_visa Letter Request.csv,Does IEEE ComSoc issue a Letter of Sponsorship or Letter of Guarantee?,No.
+question_answer_v2\Hotel_visa Letter Request.csv,What is IEEE ComSoc's policy on refunds for visa rejections or inability to enter the country?,No refunds will be given.
+question_answer_v2\Hotel_visa Letter Request.csv,Does IEEE ComSoc have the ability to influence the embassy's/consulate's decision or appeal on behalf of an applicant?,No.
+question_answer_v2\Hotel_visa Letter Request.csv,Who should I contact regarding the status of my visa?,"The embassy/consulate of the country where the conference will be held, in your home country."
+question_answer_v2\Hotel_visa Letter Request.csv,What is IEEE ComSoc's liability in case of any loss or damage related to the visa application process?,IEEE ComSoc will not be liable for any loss or damage.
+question_answer_v2\Hotel_visa Tour Packages.csv,What types of travel packages are available in Kuala Lumpur?,"KL Grand Tour, KL City Tour, Country & Batu Caves Tour, Firefly & Kuala Selangor Tour, and Genting Highland Tour."
+question_answer_v2\Hotel_visa Tour Packages.csv,Does Kuala Lumpur offer the opportunity to explore both iconic landmarks and local culture?,"Yes, through various travel packages."
+question_answer_v2\Hotel_visa Tour Packages.csv,Is it possible to experience countryside and spirituality in Kuala Lumpur?,"Yes, with the Country & Batu Caves Tour."
+question_answer_v2\Hotel_visa Tour Packages.csv,What does the 'KL Grand Tour' offer?,A comprehensive journey through Kuala Lumpur's iconic landmarks and cultural highlights.
+question_answer_v2\Hotel_visa Tour Packages.csv,What does the 'KL City Tour' focus on?,A concise exploration of Kuala Lumpur's bustling city center.
+question_answer_v2\Hotel_visa Tour Packages.csv,What are the highlights of the 'Country & Batu Caves Tour'?,Natural beauty and a visit to the awe-inspiring Batu Caves.
+question_answer_v2\Hotel_visa Tour Packages.csv,What can you experience in the 'Firefly & Kuala Selangor Tour'?,The magical spectacle of fireflies in Kuala Selangor's mangrove forests.
+question_answer_v2\Hotel_visa Tour Packages.csv,What does the 'Genting Highland Tour' include?,A trip to a highland resort with cool mountain air and entertainment.
+question_answer_v2\Hotel_visa Tour Packages.csv,Who can I contact for more details on Kuala Lumpur travel packages?,Mayflower and World Traveller travel agencies.
+question_answer_v2\Hotel_visa Tour Packages.csv,How can I contact Mayflower for travel packages?,"Through their website or Christy Foong at Christy.foong@mayflower-group.com, phone: 012-2896373."
+question_answer_v2\Hotel_visa Tour Packages.csv,How can I contact World Traveller for travel packages?,"Through their Facebook page or Jamie Wong at Jamie.wong@worldtravellers-dmc.com, phone: 017-2996372."
+question_answer_v2\Hotel_visa.csv,Where can I apply for a Malaysian visa?,At any nearest Malaysian Embassies and High Commissions Office Abroad.
+question_answer_v2\Hotel_visa.csv,Where can I find a list of Malaysian Embassies and Consulates around the world?,On the Ministry of Foreign Affairs Website.
+question_answer_v2\Hotel_visa.csv,Is it possible to apply for a Malaysian visa online?,"Yes, through the eVISA Portal."
+question_answer_v2\Hotel_visa.csv,Who can apply through the eVISA Portal?,"Tourists, Expatriates, Students, and Medical tourists."
+question_answer_v2\Patrons_exclusive Patronage Opportunities.csv,What is the cost of the Welcome Reception patronage?,"$20,000"
+question_answer_v2\Patrons_exclusive Patronage Opportunities.csv,What is benefit of the Welcome Reception patronage?,Company logo displayed in the welcome reception area and Two full conference registrations and access to social events
+question_answer_v2\Patrons_exclusive Patronage Opportunities.csv,"Is the Welcome Reception patronage more than $10,000?",Yes
+question_answer_v2\Patrons_exclusive Patronage Opportunities.csv,What type of opportunity is the Welcome Reception?,The Welcome Reception at IEEE GLOBECOM 2023 is an exclusive patronage opportunity.
+question_answer_v2\Patrons_exclusive Patronage Opportunities.csv,What is the cost of the Awards Luncheon patronage?,"$20,000"
+question_answer_v2\Patrons_exclusive Patronage Opportunities.csv,What is benefit 1 of the Awards Luncheon patronage?,Company logo displayed in the award luncheon area and Two full conference registrations and access to social events
+question_answer_v2\Patrons_exclusive Patronage Opportunities.csv,"Is the Awards Luncheon patronage more than $10,000?",Yes
+question_answer_v2\Patrons_exclusive Patronage Opportunities.csv,What type of opportunity is the Awards Luncheon?,The Awards Luncheon is an exclusive patronage opportunity.
+question_answer_v2\Patrons_exclusive Patronage Opportunities.csv,What is the cost of the Conference Breaks patronage?,"$10,000"
+question_answer_v2\Patrons_exclusive Patronage Opportunities.csv,What is benefit of the Conference Breaks patronage?,Company logo displayed in the coffee break area
+question_answer_v2\Patrons_exclusive Patronage Opportunities.csv,"Is the Conference Breaks patronage more than $10,000?",No
+question_answer_v2\Patrons_exclusive Patronage Opportunities.csv,What type of opportunity is the Conference Breaks?,Break Sponsorship
+question_answer_v2\Patrons_exclusive Patronage Opportunities.csv,What is the cost of the Lanyards patronage?,"$10,000"
+question_answer_v2\Patrons_exclusive Patronage Opportunities.csv,What is benefit 1 of the Lanyards patronage?,Exclusive to one patron and Company logo printed on conference lanyard
+question_answer_v2\Patrons_exclusive Patronage Opportunities.csv,"Is the Lanyards patronage more than $10,000?",No
+question_answer_v2\Patrons_exclusive Patronage Opportunities.csv,What type of opportunity is the Lanyards?,Merchandise
+question_answer_v2\Patrons_exclusive Patronage Opportunities.csv,What is the cost of the WiFi Internet Access patronage?,"$15,000"
+question_answer_v2\Patrons_exclusive Patronage Opportunities.csv,What is benefit of the WiFi Internet Access patronage?,Company recognized on WiFi internet access screen and Printed information with WiFi details and company name
+question_answer_v2\Patrons_exclusive Patronage Opportunities.csv,"Is the WiFi Internet Access patronage more than $10,000?",Yes
+question_answer_v2\Patrons_exclusive Patronage Opportunities.csv,What type of opportunity is the WiFi Internet Access?,Technical Service
+question_answer_v2\Patrons_exclusive Patronage Opportunities.csv,What is the cost of the Conference Banquet patronage?,"$20,000"
+question_answer_v2\Patrons_exclusive Patronage Opportunities.csv,What is benefit of the Conference Banquet patronage?,Company logo displayed in the conference banquet area and Two full conference registrations and access to social events
+question_answer_v2\Patrons_exclusive Patronage Opportunities.csv,"Is the Conference Banquet patronage more than $10,000?",Yes
+question_answer_v2\Patrons_exclusive Patronage Opportunities.csv,What type of opportunity is the Conference Banquet?,The Conference Banquet is an exclusive patronage opportunity at IEEE GLOBECOM 2023.
+question_answer_v2\Patrons_exclusive Patronage Opportunities.csv,What is the cost of the Internet Kiosk & Charging Station patronage?,"$10,000"
+question_answer_v2\Patrons_exclusive Patronage Opportunities.csv,What is benefit of the Internet Kiosk & Charging Station patronage?,Featured recognition with corporate logo at the area
+question_answer_v2\Patrons_exclusive Patronage Opportunities.csv,"Is the Internet Kiosk & Charging Station patronage more than $10,000?",No
+question_answer_v2\Patrons_exclusive Patronage Opportunities.csv,What type of opportunity is the Internet Kiosk & Charging Station?,The Internet Kiosk & Charging Station is an exclusive patronage opportunity.
+question_answer_v2\Patrons_exclusive Patronage Opportunities.csv,What is the cost of the AV for Interactive Poster Session patronage?,"$10,000"
+question_answer_v2\Patrons_exclusive Patronage Opportunities.csv,What is benefit of the AV for Interactive Poster Session patronage?,Featured recognition with corporate logo at the area
+question_answer_v2\Patrons_exclusive Patronage Opportunities.csv,"Is the AV for Interactive Poster Session patronage more than $10,000?",No
+question_answer_v2\Patrons_exclusive Patronage Opportunities.csv,What type of opportunity is the AV for Interactive Poster Session?,The AV for Interactive Poster Session is an exclusive patronage opportunity.
+question_answer_v2\Patrons_exclusive Patronage Opportunities.csv,What is the cost of the Exhibit Booth patronage?,"$3,500"
+question_answer_v2\Patrons_exclusive Patronage Opportunities.csv,What is benefit  of the Exhibit Booth patronage?,Company logo and description on conference website and app and Includes booth setup and furniture
+question_answer_v2\Patrons_exclusive Patronage Opportunities.csv,"Is the Exhibit Booth patronage more than $10,000?",No
+question_answer_v2\Patrons_exclusive Patronage Opportunities.csv,What type of opportunity is the Exhibit Booth?,The Exhibit Booth is an exclusive patronage opportunity.
+question_answer_v2\Patrons_Exhibitors.csv,How many attendees usually attend IEEE GLOBECOM each year?,"Over 2,000 attendees."
+question_answer_v2\Patrons_Exhibitors.csv,How many countries do attendees of IEEE GLOBECOM come from?,Attendees come from over 70 countries.
+question_answer_v2\Patrons_Exhibitors.csv,What does the program of IEEE GLOBECOM consist of?,"Keynote sessions, technical paper sessions, tutorials, workshops, and industry sessions."
+question_answer_v2\Patrons_Exhibitors.csv,How long is the IEEE GLOBECOM event?,It is a 5-day event.
+question_answer_v2\Patrons_Exhibitors.csv,What types of audiences does IEEE GLOBECOM bring together?,Audiences from both industry and academia.
+question_answer_v2\Patrons_Exhibitors.csv,What are the benefits of being a patron of IEEE GLOBECOM for an organization?,"Elevated status in the industry, maximum exposure to influential audience, and first-hand access to latest research."
+question_answer_v2\Patrons_Exhibitors.csv,Who can an organization contact to become a Globecom 2023 Patron?,"Contact the Patronage Co-Chair, Azwan Mahmud."
+question_answer_v2\Patrons_Exhibitors.csv,Is IEEE GLOBECOM known for its research and innovations in communications and networking technology?,"Yes, it is known for that."
+question_answer_v2\Patrons_Exhibitors.csv,How much exposure can an organization gain by being a patron of IEEE GLOBECOM?,Maximum exposure to an influential audience.
+question_answer_v2\Patrons_Exhibitors.csv,Does being a patron of IEEE GLOBECOM provide access to discussions on 5G and IoT?,"Yes, it provides access to discussions on 5G, IoT, and other relevant topics."
+question_answer_v2\Patrons_Exhibitors.csv,Does becoming a patron result in an organization's products and services being showcased?,"Yes, they will be prominently featured."
+question_answer_v2\Program_day 1.csv,What date is the CISS 1 program session on Emerging Security Issues?,"Tuesday, December 5"
+question_answer_v2\Program_day 1.csv,What time does the CISS 1 program session start and end?,8:30 - 10:00
+question_answer_v2\Program_day 1.csv,Where is CISS 1 program being held?,Room 301
+question_answer_v2\Program_day 1.csv,Who is the chair of CISS 1 program?,Yuhong Wang
+question_answer_v2\Program_day 1.csv,Which institution is Yuhong Wang affiliated with?,"Institute for Infocomm Research, Singapore"
+question_answer_v2\Program_day 1.csv,What is the title of the first presentation in CISS 1 program?,Efficient and Privacy-Preserving Eclipse Query over Encrypted Data
+question_answer_v2\Program_day 1.csv,Who are the authors of 'Efficient and Privacy-Preserving Eclipse Query over Encrypted Data'?,"Weiyu Song, Yonggang Zhang, Lili Sun, Yandong Zheng, Rongxing Lu"
+question_answer_v2\Program_day 1.csv,Is 'QoS Aware Transmit Beamforming for Secure Backscattering in Symbiotic Radio Systems' a topic in CISS 1 program?,Yes
+question_answer_v2\Program_day 1.csv,How many authors collaborated on 'Machine Learning-based Robust Physical Layer Authentication Using Angle of Arrival Estimation'?,Five
+question_answer_v2\Program_day 1.csv,Which university is associated with Ellen Z. Zhang?,"University of New Brunswick, Canada"
+question_answer_v2\Program_day 1.csv,Does the session include a presentation on Host-based Flow Table Size Inference in Multi-hop SDN?,Yes
+question_answer_v2\Program_day 1.csv,Which universities are represented in 'Host-based Flow Table Size Inference in Multi-hop SDN'?,"Pennsylvania State University, USA; Sapienza University of Rome, Italy; University of Wisconsin, USA"
+question_answer_v2\Program_day 1.csv,What is the date and time of the CQRM 1 session on Beyond 5G/6G Radio Communications?,"Tuesday, December 5, from 8:30 to 10:00"
+question_answer_v2\Program_day 1.csv,Where will the CQRM 1 program session be held?,Room 305
+question_answer_v2\Program_day 1.csv,Who is the chair of the CQRM 1 program session?,"Riccardo Venanzi from the University of Bologna, Italy & University of Ferrara, Italy"
+question_answer_v2\Program_day 1.csv,What is the first presentation in the CQRM 1 program session about?,An Experimental Platform of a Beyond-5G Network with Machine Learning Integration
+question_answer_v2\Program_day 1.csv,Who are the authors of 'An Experimental Platform of a Beyond-5G Network with Machine Learning Integration'?,"Luis A Garrido, Anestis Dalgkitsis, Golshan Famitafreshi, Apostolos Siokis, Kostas Ramantas, Christos Verikoukis"
+question_answer_v2\Program_day 1.csv,Is there a presentation on 'A Digital Twin Framework for Dynamic Monitoring of Hardware Impairment in RIS-aided Networks' in the CQRM 1 session?,Yes
+question_answer_v2\Program_day 1.csv,Which university is Atiquzzaman Mondal affiliated with?,"Indian Institute of Information Technology Guwahati, India"
+question_answer_v2\Program_day 1.csv,What is the topic of Qianqian Pan's presentation in the CQRM 1 program session?,Swarm Learning IRS in 6G-Metaverse: Secure Configurable Resources Trading for Reliable XR Communications
+question_answer_v2\Program_day 1.csv,Does the session include a presentation on Reconfigurable Intelligent Surface-Enabled Physical-Layer Network Coding?,Yes
+question_answer_v2\Program_day 1.csv,How many authors contributed to 'Reconfigurable Intelligent Surface-Enabled Physical-Layer Network Coding for Higher Order M-QAM Signals'?,Eight
+question_answer_v2\Program_day 1.csv,What is the date and time of the CSM 1 program session on Video Streaming?,"Tuesday, December 5, from 8:30 to 10:00"
+question_answer_v2\Program_day 1.csv,Where is the CSM 1 program session on Video Streaming being held?,Room 302
+question_answer_v2\Program_day 1.csv,Who is the chair of the CSM 1 program session?,"Alassane Samba from Orange Innovation, France"
+question_answer_v2\Program_day 1.csv,What is the title of the first presentation in the CSM 1 program session?,Adaptive Processing for Video Streaming with Energy Constraint: A Multi-Agent Reinforcement Learning Method
+question_answer_v2\Program_day 1.csv,Which university is Hongze Liu affiliated with?,"Shanghai Jiao Tong University, China"
+question_answer_v2\Program_day 1.csv,What is the focus of the presentation by Jinwei Zhao and Jianping Pan?,QoE-driven Joint Decision-Making for Multipath Adaptive Video Streaming
+question_answer_v2\Program_day 1.csv,Is 'FBMS: Friendliness Balancing based Multipath Scheduling for Differential Video Streaming' a topic in the CSM 1 program session?,Yes
+question_answer_v2\Program_day 1.csv,Which universities are represented in 'Queue-Learning-based QoE Optimization for Super-Resolution-assisted Adaptive Video Streaming'?,"Chongqing University of Posts and Telecommunications, China; University of Science and Technology of China, China"
+question_answer_v2\Program_day 1.csv,What is the subject of 'The Advertising in Online Video Platform: A Game Theory Analysis'?,The Advertising in Online Video Platform
+question_answer_v2\Program_day 1.csv,Who are the authors of 'The Advertising in Online Video Platform: A Game Theory Analysis'?,"Pingshan Liu, Zhangjing Cai, Qi Liang, Sizheng Fan"
+question_answer_v2\Program_day 1.csv,What is the date and time of the IS 1: Interactive Subsession CT_I1 program?,"Tuesday, December 5, from 8:30 to 9:15"
+question_answer_v2\Program_day 1.csv,Where will the IS 1: Interactive Subsession CT_I1 program take place?,Exhibition Hall (Grand Ballroom) - Level 3
+question_answer_v2\Program_day 1.csv,Who is the chair of the IS 1: Interactive Subsession CT_I1 program?,"Hong Xing from The Hong Kong University of Science and Technology (Guangzhou), China & The Hong Kong University of Science and Technology, Hong Kong"
+question_answer_v2\Program_day 1.csv,What is the focus of 'Supporting Passive Users in mmWave Networks'?,Supporting Passive Users in mmWave Networks
+question_answer_v2\Program_day 1.csv,Who are the authors of 'Supporting Passive Users in mmWave Networks'?,"Mine Gokce Dogan, Martina Cardone, Christina Fragouli"
+question_answer_v2\Program_day 1.csv,What is the subject of Zhenran Kuai and Shaowei Wang's presentation?,Online Virtual Network Function Scheduling Towards Deterministic Latency
+question_answer_v2\Program_day 1.csv,Which university is associated with Kagan Akcay?,"TU Berlin, Germany"
+question_answer_v2\Program_day 1.csv,Is there a presentation on 'Deadline-Constrained Opportunistic Spectrum Access With Spectrum Handoff' in IS 1 ?,Yes
+question_answer_v2\Program_day 1.csv,"What is the topic discussed by Haifeng Wen, Hong Xing, and Osvaldo Simeone?",Convergence Analysis of Over-the-Air FL with Compression and Power Control via Clipping
+question_answer_v2\Program_day 1.csv,What is the title of the session chaired by Hong Xing?,Interactive Subsession CT_I1
+question_answer_v2\Program_day 2.csv,Is there an event related to Privacy-Preserving Techniques on December 6?,Yes
+question_answer_v2\Program_day 2.csv,How many chairs are there for CISS 7 program?,Two
+question_answer_v2\Program_day 2.csv,Who is Joerg Kliewer?,Chair at CISS 7
+question_answer_v2\Program_day 2.csv,Which university is Joerg Kliewer affiliated with?,"New Jersey Institute of Technology, USA"
+question_answer_v2\Program_day 2.csv,What is the title of the presentation by Olusola Tolulope Odeyomi?,Personalized Online Federated Learning With Differential Privacy in Constrained Environments: A Meta-Learning Approach
+question_answer_v2\Program_day 2.csv,How much time is allocated for CISS 7 program?,1 hour 30 minutes
+question_answer_v2\Program_day 2.csv,Is 'Multi-Server Secure Aggregation with Unreliable Communication Links' a topic at CISS 7?,Yes
+question_answer_v2\Program_day 2.csv,What is the room number for CISS 8 program?,Room 304
+question_answer_v2\Program_day 2.csv,Who is the chair for CISS 8 program?,Shanxiang Lyu
+question_answer_v2\Program_day 2.csv,Which university is Shanxiang Lyu from?,"Jinan University, China"
+question_answer_v2\Program_day 2.csv,Does the presentation 'RansomAI: AI-powered Ransomware for Stealthy Encryption' involve the University of Zurich?,Yes
+question_answer_v2\Program_day 2.csv,Who are the authors of 'Lightweight Substitution box using Elliptic Curve Cryptography for Image Encryption Applications'?,Naqash Azeem Khan and Azlan Awang
+question_answer_v2\Program_day 2.csv,Is there a presentation on Post-Quantum Secure Hybrid Methods at the event?,Yes
+question_answer_v2\Program_day 2.csv,Which institution is associated with 'Efficient Sample Alignment with Fast Polynomial Interpolation for Vertical Federated Learning'?,"Xidian University, China"
+question_answer_v2\Program_day 2.csv,Who is the chair of CQRM 4 program?,Agapi Mesodiakaki
+question_answer_v2\Program_day 2.csv,What university is Agapi Mesodiakaki affiliated with?,Aristotle University of Thessaloniki (AUTH)
+question_answer_v2\Program_day 2.csv,What is the focus of 'Adaptive Pub/sub Message Delivery for World Weather IoT'?,Adaptive message delivery for IoT in weather context
+question_answer_v2\Program_day 2.csv,Which university is involved in 'Information Timeliness Guaranteed Communication and Energy Control Integration in Multi-Mode Power IoT'?,North China Electric Power University
+question_answer_v2\Program_day 2.csv,What is the main theme of 'AWS IoT Service Integration for Real Industry 4.0 Deployments'?,Integration of AWS IoT services in Industry 4.0
+question_answer_v2\Program_day 2.csv,Who are the authors from Beijing University of Posts and Telecommunications for 'Modeling and Design of the Communication Sensing and Control Coupled Closed-Loop Industrial System'?,"Zeyang Meng, Dingyou Ma, Shengfeng Wang, Zhiqing Wei, Zhiyong Feng"
+question_answer_v2\Program_day 2.csv,What is the chair's name for CRAEN 3 program?,Yiqin Deng
+question_answer_v2\Program_day 2.csv,Which university is Yiqin Deng associated with?,"Shandong University, China"
+question_answer_v2\Program_day 2.csv,What is the topic of 'Reinforcement Learning based Energy-Efficient Routing with Latency Constraints for FANETs'?,Energy-efficient routing in FANETs using reinforcement learning with latency constraints
+question_answer_v2\Program_day 2.csv,Who are the authors from Queen's University in 'How Does Forecasting Affect the Convergence of DRL Techniques in O-RAN Slicing?',"Ahmad M. Nagib, Hossam S. Hassanein"
+question_answer_v2\Program_day 2.csv,What is the focus of 'Throughput Maximization for RSMA-Empowered CRN under Short-Packet Communications: A DRL-Based Approach'?,Maximizing throughput in RSMA-empowered CRN using DRL for short-packet communications
+question_answer_v2\Program_day 2.csv,Which institution is linked to 'A Partially Observable Deep Multi-Agent Active Inference Framework for Resource Allocation in 6G and Beyond Wireless Communications Networks'?,"Nanjing University of Aeronautics and Astronautics, China"
+question_answer_v2\Program_day 2.csv,Is there a presentation involving the University of Texas at Dallas on December 6?,"Yes, in 'A Partially Observable Deep Multi-Agent Active Inference Framework for Resource Allocation in 6G and Beyond Wireless Communications Networks'"
+question_answer_v2\Program_day 2.csv,Who is the chair of CSM 4 program?,Van Tong
+question_answer_v2\Program_day 2.csv,Which university is Van Tong associated with?,"Hanoi University of Science and Technology, Vietnam"
+question_answer_v2\Program_day 2.csv,What is the main focus of 'Secure and Efficient Federated Learning for Robust Intrusion Detection in IoT Networks'?,Federated learning for intrusion detection in IoT networks
+question_answer_v2\Program_day 2.csv,Which university is associated with 'SSHCEth: Secure Smart Home Communications based on Ethereum Blockchain and Smart Contract'?,"Bnou Toufail University, Morocco"
+question_answer_v2\Program_day 2.csv,What is the theme of 'Secure Migration in NGN: An Optimal Stopping Problem Approach with Partial Observability'?,Secure migration in Next Generation Networks using an optimal stopping problem approach
+question_answer_v2\Program_day 2.csv,"Who are the authors of 'An MPQUIC-based frame-granularity transmission mechanism for adaptive video streaming' from Central South University, China?","JunHao Wu, Wang Yang, and Lihuan Hui"
+question_answer_v2\Program_day 2.csv,Who is the chair for CT 2: Communication Theory for Reconfigurable Intelligent Surfaces?,Qianqian Zhang
+question_answer_v2\Program_day 2.csv,Which university is Qianqian Zhang affiliated with?,"University of Electronic Science and Technology of China, China"
+question_answer_v2\Program_day 2.csv,What is the focus of 'Channel Capacity of RIS-assisted Symbiotic Radios with Imperfect Knowledge of Channels'?,Channel capacity in RIS-assisted symbiotic radios with imperfect channel knowledge
+question_answer_v2\Program_day 2.csv,Which universities are involved in 'Novel Hybrid RIS Architectures and Beamforming Optimization for Energy-Efficient Multi-User MISO'?,"University of Cyprus, Cyprus"
+question_answer_v2\Program_day 2.csv,What is the main concept of 'Hybrid Active-Passive Intelligent Reflecting Surface for Secure Communication'?,Using hybrid active-passive intelligent reflecting surface for secure communication
+question_answer_v2\Program_day 2.csv,What are the affiliations of the authors in 'Two-Timescale Design for Reconfigurable Intelligent Surface-Aided URLLC'?,"Queen Mary University of London, China and Southeast University, China"
+question_answer_v2\Program_day 2.csv,Who are the authors from Nanjing University of Posts and Telecommunications for 'A Low-Complexity Design for STAR-RIS Aided Multi-Antenna NOMA Systems'?,"Shizhao Yang, Jun Zhang, and Hongbo Zhu"
+question_answer_v2\Program_day 2.csv,Who is the chair for the session CT 2 program?,Qianqian Zhang
+question_answer_v2\Program_day 2.csv,Which university is Qianqian Zhang from?,"University of Electronic Science and Technology of China, China"
+question_answer_v2\Program_day 2.csv,What is the subject of 'Channel Capacity of RIS-assisted Symbiotic Radios with Imperfect Knowledge of Channels'?,RIS-assisted symbiotic radios' channel capacity with imperfect channel knowledge
+question_answer_v2\Program_day 2.csv,What are the authors' affiliations in 'Novel Hybrid RIS Architectures and Beamforming Optimization for Energy-Efficient Multi-User MISO'?,"University of Cyprus, Cyprus"
+question_answer_v2\Program_day 2.csv,What is the main idea of 'Hybrid Active-Passive Intelligent Reflecting Surface for Secure Communication'?,Using a hybrid active-passive intelligent reflecting surface for secure communication
+question_answer_v2\Program_day 2.csv,Who is the chair for the session GCSN 4 program?,Kim Khoa Nguyen
+question_answer_v2\Program_day 2.csv,Which institution is Kim Khoa Nguyen affiliated with?,"?cole de Technologie Sup?rieure, Canada"
+question_answer_v2\Program_day 2.csv,What is the focus of 'Hierarchical Meta-Reinforcement Learning for Resource-Efficient Slicing in O-RAN'?,Hierarchical meta-reinforcement learning for efficient resource slicing in O-RAN
+question_answer_v2\Program_day 2.csv,What is the main concept in 'Parallel Computing for Energy-Efficient Baseband Processing in O-RAN: Synchronization and OFDM Implementation Based on SPMD'?,Energy-efficient baseband processing in O-RAN using parallel computing and SPMD
+question_answer_v2\Program_day 2.csv,What is discussed in 'A Heuristic Spatio-temporal Scheduling for Virtual Network Allocation Considering Renewable Energy'?,Heuristic spatio-temporal scheduling for virtual network allocation with a focus on renewable energy
+question_answer_v2\Program_day 2.csv,"Who are the authors of 'Fast In-Network Functionality Embedding in Software-Defined Service-Centric Networking' from Beijing University of Posts and Telecommunications, China?","Xiaolu Li, Renchao Xie, Tao Huang, and Yunjie Liu"
+question_answer_v2\Program_day 3.csv,What is the date and time for the CQRM 8 session program?,"Thursday, December 7, from 8:30 to 10:00"
+question_answer_v2\Program_day 3.csv,What is the main topic of CQRM 8 program?,Network Slicing and SDN/NFV
+question_answer_v2\Program_day 3.csv,Who is the chair of the CQRM 8 session?,"Keshav Singh (National Sun Yat-sen University, Taiwan)"
+question_answer_v2\Program_day 3.csv,"What university is Takehiro Sato from, who presented at the CQRM 8 session?","Kyoto University, Japan"
+question_answer_v2\Program_day 3.csv,Is the 'Deep Reinforcement Learning-Based Network Slicing Algorithm for 5G Heterogenous Services' a part of CQRM 8?,Yes
+question_answer_v2\Program_day 3.csv,What is the focus of the session CQRM 9 program?,Routing and Traffic Steering
+question_answer_v2\Program_day 3.csv,Who is the chair of the CQRM 9 session program?,"Keping Yu (Hosei University, Japan)"
+question_answer_v2\Program_day 3.csv,Which university is associated with the project 'Flowlet-level Routing Optimization with GNN-based Multi-agent Deep Reinforcement Learning'?,"Hunan Normal University, China"
+question_answer_v2\Program_day 3.csv,What is the topic of the paper presented by Van-Dinh Nguyen and his team?,Enabling Intelligent Traffic Steering in A Hierarchical Open Radio Access Network
+question_answer_v2\Program_day 3.csv,Is there a presentation related to oblivious routing in the CQRM 9 session program?,Yes
+question_answer_v2\Program_day 3.csv,What is the title of the paper presented by Jiawei Chen and team in CQRM 9?,Deep Reinforcement Learning Based Dynamic Routing Optimization for Delay-Sensitive Applications
+question_answer_v2\Program_day 3.csv,Is 'Latency-Optimal Network Microservice Architecture Deployment in SDN' a part of CQRM 8 program?,Yes
+question_answer_v2\Program_day 3.csv,What is the date of the CISS 12 : Blockchain Security II session program?,"Thursday, December 7"
+question_answer_v2\Program_day 3.csv,How much time is allocated for the CISS 12: Blockchain Security II session program?,1 hour and 30 minutes (from 8:30 to 10:00)
+question_answer_v2\Program_day 3.csv,Is Haotian Chi the chair of the CISS 12: Blockchain Security II session program?,Yes
+question_answer_v2\Program_day 3.csv,What university is Haotian Chi associated with?,"Shanxi University, China"
+question_answer_v2\Program_day 3.csv,What is the title of the paper presented by Puhe Hao and his team?,A Privacy-Preserving Data Sharing Scheme Based on Blockchain for Vehicular Edge Networks
+question_answer_v2\Program_day 3.csv,Which university is associated with the Smart Contract Firewall project?,"Guangzhou University, China"
+question_answer_v2\Program_day 3.csv,What is the topic of CISS 13 session program?,AI-aided Security II
+question_answer_v2\Program_day 3.csv,Who is the chair of the CISS 13 session program?,"Safa Otoum (University of Ottawa, Canada)"
+question_answer_v2\Program_day 3.csv,What university is associated with the SD-Transformer project?,"University of Electronic Science and Technology of China, China"
+question_answer_v2\Program_day 3.csv,Is the CP-FL project related to Federated Learning?,Yes
+question_answer_v2\Program_day 3.csv,What is the date and time for the CRAEN 5 session program?,"Thursday, December 7, from 8:30 to 10:00"
+question_answer_v2\Program_day 3.csv,What is the main topic of CRAEN 5?,Federated Learning for Wireless Networks
+question_answer_v2\Program_day 3.csv,Who is the chair of the CRAEN 5 session program?,"Xiaoyao Huang (China Telecom Research Institute, China)"
+question_answer_v2\Program_day 3.csv,Which university is associated with the paper 'Federated Learning-based Radio Environment Map Construction for Wireless Networks'?,"Singapore Institute of Technology, Singapore"
+question_answer_v2\Program_day 3.csv,What is the title of the paper presented by Chao Chen and his team?,Efficient Federated Learning using Random Pruning in Resource-Constrained Edge Intelligence Networks
+question_answer_v2\Program_day 3.csv,What is the focus of the session CT 5?,Federated and Distributed Learning
+question_answer_v2\Program_day 3.csv,Who is the chair of the CT 5 session?,"Jia Yan (The Hong Kong University of Science and Technology (Guangzhou), China)"
+question_answer_v2\Program_day 3.csv,"Which university is Sayantan Adhikary from, who presented at the CT 5 session program?","Indian Institute of Science, Bangalore, India"
+question_answer_v2\Program_day 3.csv,What is the topic of the paper presented by Hang Liu and his team?,On the Privacy Leakage of Over-the-Air Federated Learning Over MIMO Fading Channels
+question_answer_v2\Program_day 3.csv,Is 'Adaptive Top-K in SGD for Communication-Efficient Distributed Learning' a part of CT 5?,Yes
+question_answer_v2\Program_day 3.csv,What university is associated with the project 'Bayesian Over-the-Air FedAvg via Channel Driven Stochastic Gradient Langevin Dynamics'?,"University of Glasgow, United Kingdom (Great Britain)"
+question_answer_v2\Program_day 3.csv,Is the DAFL project related to Federated Learning?,Yes
+question_answer_v2\Program_day 3.csv,What is the date and time for the CT 6 session program?,"Thursday, December 7, from 8:30 to 10:00"
+question_answer_v2\Program_day 3.csv,What is the main topic of CT 6?,Coding Theory II
+question_answer_v2\Program_day 3.csv,Who is the chair of the CT 6 session program?,"Chongjun Ouyang (University College Dublin, Ireland & School of Electrical and Electronic Engineering, Ireland)"
+question_answer_v2\Program_day 3.csv,"Which university is Yufei Chen from, who presented at the CT 6 session program?","Xidian University, China"
+question_answer_v2\Program_day 3.csv,What is the title of the paper presented by Min Qiu and his team?,Coexistence of Heterogeneous Services in the Uplink with Discrete Signaling and Treating Interference as Noise
+question_answer_v2\Program_day 3.csv,What is the focus of the session IoTSN 9 program?,Edge networks 2
+question_answer_v2\Program_day 3.csv,Who is the chair of the IoTSN 9 session program?,"Talip Tolga  Sar? (Istanbul Technical University, Turkey)"
+question_answer_v2\Program_day 3.csv,What is the topic of the paper presented by Hui Liang and his team?,A Game-Theoretic Access Strategy for Satellite Edge Computing enabled Massive IoT Networks
+question_answer_v2\Program_day 3.csv,Is 'Collaborative Smart Environmental Monitoring Using Flying Edge Intelligence' a part of IoTSN 9 program?,Yes
+question_answer_v2\Program_day 3.csv,Which university is associated with the project 'Joint Sensing and Computation Offloading for Wireless Powered Mobile Edge Computing System'?,"University of Electronic Science and Technology of China, China"
+question_answer_v2\Program_day 3.csv,What is the title of the paper presented by Yongshuai Wu and team in IoTSN 9 program?,CMRM: A Cross-modal Reasoning Model to Enable Zero-shot Imitation Learning for Robotic RFID Inventory in Unstructured Environments
+question_answer_v2\Program_day 3.csv,Is the 'Energy-Based Arithmetic Coding Methods for Probabilistic Amplitude Shaping' a part of CT 6 program?,Yes
+question_answer_v2\Program_workshops Program.csv,What is the workshops room number for WS01-1: MIMO?,Room 405
+question_answer_v2\Program_workshops Program.csv,Is there a session on workshops NON-TERRESTRIAL NETWORKS on December 4?,Yes
+question_answer_v2\Program_workshops Program.csv,How much time is allocated for the WS01-1: MIMO workshops session program?,1 hour and 30 minutes
+question_answer_v2\Program_workshops Program.csv,Who is the chair for the WS02-1: NON-TERRESTRIAL NETWORKS 1 workshops session?,Marco Giordani
+question_answer_v2\Program_workshops Program.csv,What is the title of the presentation by Xu Ziyi?,SAMBA: Scenario-Adaptive Meta-learning for mmWave Beam Alignment
+question_answer_v2\Program_workshops Program.csv,Is Md Saifur Rahman presenting in the MIMO session program?,Yes
+question_answer_v2\Program_workshops Program.csv,What university is associated with Cen Liu in the MIMO session program?,National University of Singapore
+question_answer_v2\Program_workshops Program.csv,Which session discusses 6G Communications?,WS01-1: MIMO
+question_answer_v2\Program_workshops Program.csv,What is the topic of the WS05-1 session program?,INTEGRATED SENSING AND COMMUNICATIONS 1
+question_answer_v2\Program_workshops Program.csv,Where is the WS05-1 session being held?,Room 408
+question_answer_v2\Program_workshops Program.csv,What is Hailiang Zhang presenting about in the WS05-1 session program?,5G NLOS Positioning with Multi-Bounce Mitigation by Iterative Weighted Least Squares
+question_answer_v2\Program_workshops Program.csv,Which university is Boxuan Xie affiliated with?,"Aalto University, Finland"
+question_answer_v2\Program_workshops Program.csv,Is there a presentation on Cell-Free Massive MIMO for ISAC in WS05-1 program?,Yes
+question_answer_v2\Program_workshops Program.csv,What is the title of Mohamed Elfiatoure's presentation?,Cell-Free Massive MIMO for ISAC: Access Point Operation Mode Selection and Power Control
+question_answer_v2\Program_workshops Program.csv,Who is presenting about Extended Target Parameter Estimation in WS05-1 program?,Fernando Pedraza and his team
+question_answer_v2\Program_workshops Program.csv,What is the focus of the WS06-1: PHYSICAL LAYER session program?,Physical layer topics in communications
+question_answer_v2\Program_workshops Program.csv,Where is the WS06-1 session located?,Room 402
+question_answer_v2\Program_workshops Program.csv,What is the topic of Yiqun Wang's presentation in WS06-1 program?,Joint CRDSA and SCMA for Satellite Internet of Things with Codebook Collisions
+question_answer_v2\Program_workshops Program.csv,Is there a study on LEO Satellite Edge Computing in WS06-1 program?,"Yes, by Jian Wu and his team"
+question_answer_v2\Program_workshops Program.csv,What institution is associated with Shuangquan Zhou in WS06-1 program?,"Harbin Institute of Technology, China"
+question_answer_v2\Program_workshops Program.csv,What is the room number for the WS04-2 session program?,Room 404
+question_answer_v2\Program_workshops Program.csv,What is the topic of George Nakas's presentation in WS04-2 program?,"5G-Fuzz: An Attack Generator for Fuzzing 5GC, using Generative Adversarial Networks"
+question_answer_v2\Program_workshops Program.csv,"Which university is Panagiotis Radoglou-Grammatikis from, who is presenting in WS04-2 program?","K3Y Ltd, Bulgaria"
+question_answer_v2\Program_workshops Program.csv,What is the focus of WS04-2.3 program presentation?,Machine Learning-based Secure Communication Framework for Connected Autonomous Vehicles
+question_answer_v2\Program_workshops Program.csv,Are there any presentations from Italy in WS04-2 program?,"Yes, from the University of Cagliari"
+question_answer_v2\Program_workshops Program.csv,Where is the WS05-2 session being held?,Room 408
+question_answer_v2\Program_workshops Program.csv,What is the topic of Chenglong Dou's presentation in WS05-2 program?,Joint User Pairing and CRB Optimization for NOMA-aided Integrated Sensing and Communication
+question_answer_v2\Program_workshops Program.csv,Which institution is involved in the ISAC 4D Imaging System presentation in WS05-2 program?,"Beijing University of Posts and Telecommunications, China"
+question_answer_v2\Program_workshops Program.csv,Is there a presentation on OTFS Waveform in WS05-2 program?,"Yes, by Jiajun Zhu and team"
+question_answer_v2\Program_workshops Program.csv,What is the theme of the presentation by Yujie Wang in WS05-2 program?,Intelligent Predictive Beamforming for Integrated Sensing and Communication Based Vehicular-to-Infra
+question_answer_v2\Program_workshops Program.csv,What is the room number for the WS06-2 session program?,Room 402
+question_answer_v2\Program_workshops Program.csv,What is the topic of Shichao Li's presentation in WS06-2 program?,Joint Packet Scheduling and UAV Trajectory Design in Air-Ground Integrated Network
+question_answer_v2\Program_workshops Program.csv,Which university is associated with Nasrin Razmi in WS06-2 program?,"University of Bremen, Germany"
+question_answer_v2\Program_workshops Program.csv,What is the focus of Ningtao Zhang's presentation in WS06-2 program?,Time-Varying Graph Based Inter-Orbit Link Selection Energy-Saving Routing for LEO Satellite Networks
+question_answer_v2\Program_workshops Program.csv,Is there a study on Energy-Aware Satellite Handover in WS06-2 program?,"Yes, by Nour Badini and team"
+question_answer_v2\Program_workshops Program.csv,Where is the WS07-2 session program being held?,Room 406
+question_answer_v2\Program_workshops Program.csv,Who is the chair for the WS07-2 session program?,Stefano Tomasin
+question_answer_v2\Program_workshops Program.csv,What is the topic of Yichi Zhang's presentation in WS07-2 program?,Robust Beamforming for Covert Communications Aided by Reconfigurable Dual-Functional Surface
+question_answer_v2\Program_workshops Program.csv,"Which university is Isabella W. G. da Silva from, who is presenting in WS07-2 program?","University of Oulu, Finland"
+question_answer_v2\Program_workshops Program.csv,What is the theme of the presentation by Han Yang in WS07-2 program?,"Towards Unified, Practical Evaluation of Model Poisoning Attacks and Defence in Federated Learning"
+question_answer_v2\Registration_registration Now.csv,"What is the registration fee for a ComSoc Member who is an author, registering for the Full Conference, and doing so before the author registration deadline?",$850
+question_answer_v2\Registration_registration Now.csv,"How much does a non-member, non-author pay for attending only the Workshops & Tutorials for one day if they register after the early registration deadline?",$480
+question_answer_v2\Registration_registration Now.csv,"What would the registration fee be for an IEEE member, who is not an author, if they register late for the Limited Conference?",$880
+question_answer_v2\Registration_registration Now.csv,"What is the cost for a ComSoc Student Member who is an author and wants to register for the Author Workshop, assuming they register before the author registration deadline?",$280
+question_answer_v2\Registration_registration Now.csv,What is the registration fee for a non-member author registering for the Author Limited Conference before the author registration deadline?,"$1,020"
+question_answer_v2\Registration_registration Now.csv,What is the registration fee for a non-member student who is an author and wants to register for the Full Conference?,"$1,170"
+question_answer_v2\Registration_registration Now.csv,How much does it cost for an IEEE Member who is a non-author to register for the Workshops & Tutorials for one day after the early registration deadline?,$385
+question_answer_v2\Registration_registration Now.csv,What is the early registration fee for the Limited Conference for a ComSoc member who is not an author?,$700
+question_answer_v2\Registration_registration Now.csv,What is the registration fee for a non-member author registering late for the Author Workshop?,Fee information not available in provided documents
+question_answer_v2\Registration_registration Now.csv,What is the registration fee for an IEEE Student Member who is not an author and registers late for the One-Day Only Conference?,$420
+question_answer_v2\Registration_registration Now.csv,"How much does it cost for a non-member, non-author to register early for the Industry Program Only?",$390
+question_answer_v2\Registration_registration Policies.csv,What is the email address for submitting registration transfer requests?,j.le@comsoc.org
+question_answer_v2\Registration_registration Policies.csv,How much additional fee is charged for transfer requests received after November 11?,US $100
+question_answer_v2\Registration_registration Policies.csv,Are registration rate differences applied based on membership status in transfer requests?,Yes
+question_answer_v2\Registration_registration Policies.csv,Is written communication required for registration transfer requests?,Yes
+question_answer_v2\Registration_registration Policies.csv,Who can grant permission for a substitute presenter in extreme cases?,The TPC Chair
+question_answer_v2\Registration_registration Policies.csv,What form must be filled out to request a substitute presenter?,Substitute Presenter Form
+question_answer_v2\Registration_registration Policies.csv,Is a substitute presenter allowed if an author or co-author is not available?,"Yes, in some extreme cases"
+question_answer_v2\Registration_registration Policies.csv,Where does a copy of the Substitute Presenter Form go for approval?,Directly to the TPC Chair
+question_answer_v2\Registration_registration Policies.csv,What is the minimum author registration requirement for a paper to be published in IEEE GLOBECOM 2023 Proceedings and IEEE Xplore?,At least one author must register at either the FULL OR LIMITED AUTHOR REGISTRATION RATE.
+question_answer_v2\Registration_registration Policies.csv,Do substitute presenters have the ability to be used for paper presentations at IEEE GLOBECOM 2023?,"Yes, but they must be authorized in advance by the TPC Chairs."
+question_answer_v2\Registration_registration Policies.csv,When will author registration be opened for IEEE GLOBECOM 2023?,It will be opened soon on the IEEE GLOBECOM 2023 website.
+question_answer_v2\Registration_registration Policies.csv,How many papers can one Full or Limited registration cover for authors with multiple accepted papers?,Up to 3 papers.
+question_answer_v2\Registration_registration Policies.csv,What is the page limit for the final version of accepted papers?,"6 pages, with the option to extend to 7 pages for a USD 100 over-length charge."
+question_answer_v2\Registration_registration Policies.csv,What is the deadline for uploading the final camera-ready manuscript?,1 September 2023.
+question_answer_v2\Registration_registration Policies.csv,What is the deadline for refund/cancellation requests for the conference?,15 November 2023.
+question_answer_v2\Registration_registration Policies.csv,What is the administrative fee charged for each refund?,US $100.
+question_answer_v2\Registration_registration Policies.csv,Are children allowed entry into session rooms at the conference?,"No, children are not permitted entry into session rooms."
+question_answer_v2\Registration_registration Policies.csv,Do children have access to the Exhibit Hall floor during the conference?,"Yes, but only during scheduled show hours and if a Minor Release Form is completed and signed by parents or guardians."
+question_answer_v2\Registration_travel Grants.csv,Are substitute presenters allowed for paper presentations at IEEE GLOBECOM 2023?,"Yes, but they must be authorized in advance by the TPC Chairs."
+question_answer_v2\Registration_travel Grants.csv,Who is eligible to apply for grants at IEEE GLOBECOM 2023?,"Students or individuals who are financially limited, registered, and co-authored an accepted paper."
+question_answer_v2\Registration_travel Grants.csv,What organizations are providing grants for IEEE GLOBECOM 2023?,"IEEE ComSoc, US National Science Foundation, Women in Communications Engineering (WICE), and IEEE Conference Travel."
+question_answer_v2\Registration_travel Grants.csv,What is the maximum number of students or applicants from a single institution that can be supported by these grants?,No more than one student or applicant per institution.
+question_answer_v2\Registration_travel Grants.csv,"Who can apply for these grants? Can postdocs, faculty, or other senior research personnel do so?","No, they may not apply."
+question_answer_v2\Registration_travel Grants.csv,What is the application deadline for the Conference Travel Grants at IEEE GLOBECOM 2023?,15 October 2023.
+question_answer_v2\Registration_travel Grants.csv,What is the minimum and maximum value of each conference travel grant at IEEE GLOBECOM 2023?,"Minimum of US$700 and a maximum of US$1,400."
+question_answer_v2\Registration_travel Grants.csv,What are the priority criteria for evaluating Conference Travel Grant applications?,"GDP per capita of the applicant's country, distance from the conference venue, and paper/talk review evaluation."
+question_answer_v2\Registration_travel Grants.csv,When will applicants be notified about the outcome of their grant application?,1 November 2023.
+question_answer_v2\Registration_travel Grants.csv,How are Conference Travel Grants paid?,As reimbursement after the conference if the goal of the request is achieved.
