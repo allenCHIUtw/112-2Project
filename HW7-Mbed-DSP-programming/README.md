@@ -2,7 +2,7 @@
 ## data of Author
 HomeWork:HW7\
 Name:邱士倫\
-ID:B09901036 <br>
+ID:B09901036 
 
  
 githubURL: https://github.com/allenCHIUtw/Embed/tree/main/HW7-Mbed-DSP-programming
@@ -84,12 +84,21 @@ const float32_t firCoeffs32[29] = {
 ```
 4.做出來的結果為:
 * 處理前
-![before DSP]()
+![before DSP](/picture/DSP_before.png)
 * 處理後
-![After DSP](https://www.dropbox.com/photos?_tk=web_left_nav_bar&role=personal&di=left_nav)
+![After DSP](/picture/DSP_after.png)
 <h3>第二題</h3>
 1.因為原裝的 CMSIS-DSP 無法執行以下程式，因此重新找到 data.c 其中的   float32_t testInput_f32_1kHz_15kHz   <br>
   以及float32_t refOutput
+
+2.做出來的結果為:
+* testInput_f32_1kHz_15kHz
+![before DSP](/picture/TEST_IN.png )
+* refOutput
+![After DSP](/picture/REF_OUT.png )
+* TestOutput
+![After DSP](/picture/TEST_OUT.png )
+結論:這一個FIR filter 是有效的
 <h3>review Question</h3>
   ARM fixed-point Q1.15 格式是一種用於固定點數字的表示方式<br>
   *  「1」表示用於整數部分的位數為 1 位。這一位還包括了有符號數字的符號位，意味著數字可以是正數或負數。<br>
@@ -112,7 +121,10 @@ const float32_t firCoeffs32[29] = {
 # 實驗感想
 這次比較困難的部分在於讓範例程式跑動，將 external 的檔案替換為 \
 https://github.com/ARM-software/CMSIS-DSP/blob/main/Examples/ARM/arm_fir_example/arm_fir_data.c \
-中的資料都沒辦法如實解決，最後
+中的資料都沒辦法如實解決\
+至於選擇Dir的原因是因為數值比較好瑱寫操作相對簡單。 <br>
+
+
 # 參考資料
 https://github.com/ARM-software/CMSIS-DSP/tree/main \
 https://blog.csdn.net/lyd0813/article/details/102575213
